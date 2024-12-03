@@ -1,0 +1,32 @@
+[01:19:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:19:10] [ServerMain/INFO]: Found new data pack file/ija-one-block, loading it automatically
+[01:19:13] [ServerMain/INFO]: Loaded 1337 recipes
+[01:19:13] [ServerMain/INFO]: Loaded 1448 advancements
+[01:19:13] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:19:13] [Server thread/INFO]: Loading properties
+[01:19:13] [Server thread/INFO]: Default game type: SURVIVAL
+[01:19:13] [Server thread/INFO]: Generating keypair
+[01:19:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:19:13] [Server thread/INFO]: Using epoll channel type
+[01:19:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:19:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:19:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:19:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:19:13] [Server thread/INFO]: Preparing level "world"
+[01:19:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:19:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:19:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:19:14] [Server thread/INFO]: Time elapsed: 668 ms
+[01:19:14] [Server thread/INFO]: Done (0.788s)! For help, type "help"
+[01:19:42] [Server thread/INFO]: jkEmi_[/127.180.247.82:47841] logged in with entity id 2 at (0.5, 61.0, 0.5)
+[01:19:42] [Server thread/INFO]: jkEmi_ joined the game
+[01:21:19] [Server thread/INFO]: jkEmi_ fell out of the world
+[01:27:14] [Server thread/INFO]: Misadios[/127.247.143.35:51939] logged in with entity id 29 at (0.5, 61.0, 0.5)
+[01:27:14] [Server thread/INFO]: Misadios joined the game
+[01:27:25] [Server thread/INFO]: [Not Secure] <jkEmi_> aparecio un joto
+[01:27:30] [Server thread/INFO]: [Not Secure] <Misadios> ya llego el top 1 en RL en la guanajuatito
+[01:27:42] [Server thread/INFO]: [Not Secure] <jkEmi_> pendejooo
+[01:27:43] [Server thread/INFO]: jkEmi_ lost connection: Disconnected
+[01:27:43] [Server thread/INFO]: jkEmi_ left the game
+[01:28:23] [Server thread/INFO]: Made jkEmi_ a server operator
+[01:28:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=60, z=0} jh{x=0, y=60, z=-1}
