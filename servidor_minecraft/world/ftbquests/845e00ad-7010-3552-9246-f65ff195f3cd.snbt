@@ -4,9 +4,21 @@
 	name: "jkEmi_#845e00ad"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
-	claimed_rewards: { }
+	task_progress: {
+		681262ED8C55F5CA: 1
+	}
+	started: {
+		47F19AA6058BEA23: 1734418208406L
+		0000000000000001: 1734418208406L
+		681262ED8C55F5CA: 1734418208406L
+		057A5A3DCD793460: 1734418208406L
+	}
+	completed: {
+		47F19AA6058BEA23: 1734418208409L
+		681262ED8C55F5CA: 1734418208409L
+	}
+	claimed_rewards: {
+		"845e00ad701035529246f65ff195f3cd:6F051BF38DE0A7AC": 1734418220613L
+	}
 	player_data: { }
 }

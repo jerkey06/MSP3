@@ -4177,3 +4177,19 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [17Dec2024 06:41:16.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [17Dec2024 06:41:27.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [17Dec2024 06:41:37.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set jkEmi_'s game mode to Creative Mode
+[17Dec2024 06:43:47.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: jkEmi_
+[17Dec2024 06:47:54.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jkEmi_ a server operator
+[17Dec2024 06:48:14.774] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_desert_located (cataclysm:cursed_pyramid) took 402 ms
+[17Dec2024 06:48:20.240] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[17Dec2024 06:48:25.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -3967.500000, 98.481043, 3264.500000]
+[17Dec2024 06:48:25.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7511ms or 150 ticks behind
+[17Dec2024 06:48:25.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ has made the advancement [Cursed Pyramid]
+[17Dec2024 06:48:35.450] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[17Dec2024 06:49:30.418] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[17Dec2024 06:49:30.419] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[17Dec2024 06:49:30.420] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[17Dec2024 06:49:30.421] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[17Dec2024 06:49:30.421] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[17Dec2024 06:49:30.422] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Dec2024 06:49:30.422] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Dec2024 06:50:49.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Caitlin'/3148, l='ServerLevel[world]', x=-4083.19, y=63.00, z=3107.93] died: Caitlin was sniped by Archer
