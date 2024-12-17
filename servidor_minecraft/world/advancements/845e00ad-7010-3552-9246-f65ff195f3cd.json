@@ -1,111 +1,81 @@
 {
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2024-12-03 01:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2024-12-03 01:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-03 01:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-03 01:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-03 01:21:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-03 01:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-12-03 01:22:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2024-12-03 01:22:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-03 01:19:42 +0000"
+      "unlock_right_away": "2024-12-17 06:39:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "betternether:root": {
     "criteria": {
-      "has_planks": "2024-12-03 01:22:09 +0000"
+      "welcome": "2024-12-17 06:39:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
+  "betterend:root": {
     "criteria": {
-      "has_planks": "2024-12-03 01:22:09 +0000"
+      "welcome": "2024-12-17 06:39:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
+  "betterdungeons:root": {
     "criteria": {
-      "has_planks": "2024-12-03 01:22:09 +0000"
+      "always": "2024-12-17 06:39:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "mowziesmobs:root": {
     "criteria": {
-      "has_logs": "2024-12-03 01:21:49 +0000"
+      "custom_test_name": "2024-12-17 06:39:53 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "minecraft:plains": "2024-12-03 01:19:43 +0000"
+      "mystic_grove": "2024-12-17 06:39:54 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/barrel": {
+  "yungscavebiomes:root": {
     "criteria": {
-      "has_planks": "2024-12-03 01:22:09 +0000"
+      "always": "2024-12-17 06:39:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "takesapillage:root": {
     "criteria": {
-      "has_log": "2024-12-03 01:21:49 +0000"
+      "always": "2024-12-17 06:39:53 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "adorabuild_structures:overworld_structures": {
     "criteria": {
-      "crafting_table": "2024-12-03 01:22:13 +0000"
+      "always": "2024-12-17 06:39:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "has_planks": "2024-12-03 01:22:09 +0000"
+      "mystic_grove": "2024-12-17 06:39:54 +0000"
     },
     "done": true
   },
-  "DataVersion": 4082
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-12-17 06:39:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-17 06:39:53 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-17 06:39:53 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
 }

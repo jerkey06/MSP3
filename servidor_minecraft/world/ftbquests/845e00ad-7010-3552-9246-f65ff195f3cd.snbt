@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "845e00ad701035529246f65ff195f3cd"
+	name: "jkEmi_#845e00ad"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
