@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-16 20:52:23 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/ddr/regions_unexplored/maple_counter_1": {
     "criteria": {
       "has_planks": "2025-02-16 03:46:01 +0000"
