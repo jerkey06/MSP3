@@ -1038,6 +1038,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-16 19:30:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-15 23:33:34 +0000"
@@ -1507,7 +1513,8 @@
       "temperate_grove": "2025-02-16 00:13:53 +0000",
       "pine_slopes": "2025-02-15 23:56:19 +0000",
       "grassland": "2025-02-16 00:15:28 +0000",
-      "prairie": "2025-02-16 00:03:44 +0000"
+      "prairie": "2025-02-16 00:03:44 +0000",
+      "redwoods": "2025-02-16 19:19:52 +0000"
     },
     "done": false
   },
@@ -1739,6 +1746,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-02-16 19:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-02-15 23:29:36 +0000"
@@ -1961,6 +1974,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-16 19:30:54 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-02-15 23:28:19 +0000"
@@ -2044,6 +2063,12 @@
       "has_planks": "2025-02-16 00:31:42 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fried_rice": "2025-02-16 19:30:54 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
     "criteria": {
@@ -2981,7 +3006,8 @@
       "temperate_grove": "2025-02-16 00:13:53 +0000",
       "pine_slopes": "2025-02-15 23:56:19 +0000",
       "grassland": "2025-02-16 00:15:28 +0000",
-      "prairie": "2025-02-16 00:03:44 +0000"
+      "prairie": "2025-02-16 00:03:44 +0000",
+      "redwoods": "2025-02-16 19:19:52 +0000"
     },
     "done": false
   },
@@ -4196,6 +4222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-16 19:30:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-02-15 23:32:49 +0000"
@@ -4602,6 +4634,12 @@
   "design_decor:recipes/design_decor/scoria_castel_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-16 03:22:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-16 19:30:54 +0000"
     },
     "done": true
   },
