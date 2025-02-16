@@ -2280,6 +2280,12 @@
     },
     "done": true
   },
+  "goodending:recipes/orange_dye_from_spicy_wildflowers": {
+    "criteria": {
+      "has_item": "2025-02-16 19:34:49 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/andesite_castel_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-15 23:37:51 +0000"
@@ -2476,6 +2482,12 @@
   "interiors:recipes/interiors/crafting/chair/cyan_chair": {
     "criteria": {
       "has_seat": "2025-02-16 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-16 19:35:33 +0000"
     },
     "done": true
   },
@@ -3014,6 +3026,12 @@
   "createindustry:recipes/createindustry.building/nickel_frame_from_ingots_nickel_stonecutting": {
     "criteria": {
       "has_ingots_nickel": "2025-02-16 04:09:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 19:35:33 +0000"
     },
     "done": true
   },

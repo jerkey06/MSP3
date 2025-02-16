@@ -498,6 +498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-16 19:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-02-15 23:40:10 +0000"
@@ -1309,6 +1315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-02-16 19:39:55 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/coffe_cake_feast": {
     "criteria": {
       "has_any_ingredient": "2025-02-16 01:58:33 +0000"
@@ -2039,6 +2051,12 @@
   "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
       "has_acorn": "2025-02-16 01:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-02-16 19:39:55 +0000"
     },
     "done": true
   },
