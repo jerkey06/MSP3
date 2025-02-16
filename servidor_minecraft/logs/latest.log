@@ -4829,3 +4829,14 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [16Feb2025 22:54:59.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jkEmi_) moved wrongly! 0.3961686621878471
 [16Feb2025 22:55:00.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> deja vo
 [16Feb2025 22:56:03.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ty
+[16Feb2025 22:58:48.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[16Feb2025 23:03:41.251] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 10976 Ticks
+[16Feb2025 23:03:56.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[16Feb2025 23:05:44.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> donde estas?
+[16Feb2025 23:05:47.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> en la ccina
+[16Feb2025 23:05:48.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> tienes
+[16Feb2025 23:05:51.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> cristal
+[16Feb2025 23:05:54.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> smn
+[16Feb2025 23:07:06.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jkEmi_ moved wrongly!
+[16Feb2025 23:07:26.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> tienes pino?
+[16Feb2025 23:07:45.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> nop
