@@ -4713,3 +4713,6 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [16Feb2025 20:53:12.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> va
 [16Feb2025 20:54:46.454] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11307 Ticks
 [16Feb2025 21:05:18.900] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11352 Ticks
+[16Feb2025 21:15:33.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[16Feb2025 21:15:43.352] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[16Feb2025 21:15:53.901] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11301 Ticks
