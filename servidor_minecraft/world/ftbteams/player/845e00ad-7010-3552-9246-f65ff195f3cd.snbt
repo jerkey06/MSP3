@@ -1,0 +1,17 @@
+{
+	id: "845e00ad-7010-3552-9246-f65ff195f3cd"
+	type: "player"
+	player_name: "jkEmi_"
+	ranks: {
+		845e00ad-7010-3552-9246-f65ff195f3cd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "jkEmi_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9A59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

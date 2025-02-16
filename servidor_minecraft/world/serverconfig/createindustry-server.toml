@@ -39,8 +39,8 @@
 		nickel_flywheel = 0.0
 		heavy_casing_encased_shaft = 0.0
 		heavy_casing_encased_large_aluminum_cogwheel = 0.0
-		aluminum_flywheel = 0.0
 		steel_encased_large_steel_cogwheel = 0.0
+		aluminum_flywheel = 0.0
 		steel_encased_large_aluminum_cogwheel = 0.0
 		aluminum_mechanical_pump = 4.0
 		heavy_casing_encased_large_cogwheel = 0.0
