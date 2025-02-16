@@ -4316,3 +4316,56 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [16Feb2025 18:32:27.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2563.500000, 116.500000, -3275.500000]
 [16Feb2025 18:33:29.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 640    [White Terracotta] to jkEmi_]
 [16Feb2025 18:33:30.583] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[16Feb2025 18:38:13.672] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b95e964
+[16Feb2025 18:38:13.697] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MSP3/servidor_minecraft/config/jecalculation/records.json.
+[16Feb2025 18:38:13.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrewMartz[/127.118.247.235:42101] logged in with entity id 2123 at (-2580.719618702185, 117.0, -3297.5752626501157)
+[16Feb2025 18:38:13.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrewMartz joined the game
+[16Feb2025 18:38:13.843] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 777c07f2-b955-3a0d-abfb-e56dd65486a1
+[16Feb2025 18:38:13.854] [Server thread/INFO] [Jade/]: Syncing config to DrewMartz (777c07f2-b955-3a0d-abfb-e56dd65486a1)
+[16Feb2025 18:38:16.752] [Server thread/INFO] [ping-wheel/]: Channel update: DrewMartz -> default
+[16Feb2025 18:39:18.639] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[16Feb2025 18:39:18.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> a prro
+[16Feb2025 18:39:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> a cuanto la casa?
+[16Feb2025 18:39:34.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> cuantos puntos infonavit necesito?
+[16Feb2025 18:39:34.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> a 2 millones
+[16Feb2025 18:40:13.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[16Feb2025 18:40:20.458] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11340 Ticks
+[16Feb2025 18:41:35.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> el lugar q aplanaste antes pa q lo vas a usar?
+[16Feb2025 18:41:41.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> cual
+[16Feb2025 18:41:43.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> si
+[16Feb2025 18:41:45.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> el del norte
+[16Feb2025 18:41:46.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> para que lo quieres
+[16Feb2025 18:42:04.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> iba a ver si hacia granja de cultivos
+[16Feb2025 18:42:08.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> nmms
+[16Feb2025 18:42:10.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> pa que
+[16Feb2025 18:42:14.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> pss pq me gusta
+[16Feb2025 18:42:23.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> o deja aplano otro lado aca al sur
+[16Feb2025 18:42:34.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> los aldeanos nos van a dar comida que llena cualquier hambre
+[16Feb2025 18:42:41.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> mejor consigue lana
+[16Feb2025 18:42:44.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> asi un chingo
+[16Feb2025 18:42:46.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> pero quiero los logros de la cocina
+[16Feb2025 18:42:57.855] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5180dc6b
+[16Feb2025 18:42:59.810] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@931cbd2
+[16Feb2025 18:42:59.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misadios[/127.4.208.200:51915] logged in with entity id 3021 at (-209.5, 71.0, 132.5)
+[16Feb2025 18:42:59.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios joined the game
+[16Feb2025 18:42:59.917] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MSP3/servidor_minecraft/config/jecalculation/records.json.
+[16Feb2025 18:42:59.923] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e3b91a5e-de4f-3ea1-9f06-1215bf98c433
+[16Feb2025 18:42:59.947] [Server thread/INFO] [Jade/]: Syncing config to Misadios (e3b91a5e-de4f-3ea1-9f06-1215bf98c433)
+[16Feb2025 18:42:59.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios has made the advancement [Integrated Dungeons and Structures]
+[16Feb2025 18:43:00.059] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[16Feb2025 18:43:00.933] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/entity/Stoneling$StonelingVariant
+[16Feb2025 18:43:01.020] [Server thread/INFO] [ping-wheel/]: Channel update: Misadios -> default
+[16Feb2025 18:43:08.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> tepealo w
+[16Feb2025 18:43:20.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> onde andan pibes
+[16Feb2025 18:43:26.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> a 3k de bloques w
+[16Feb2025 18:43:29.597] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[16Feb2025 18:43:36.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> deja te teletransporto
+[16Feb2025 18:43:43.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> si estamos en la quinta verga
+[16Feb2025 18:43:47.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> tierra prometida
+[16Feb2025 18:43:51.049] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[16Feb2025 18:44:11.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> pasen cords
+[16Feb2025 18:44:14.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported Misadios to jkEmi_]
+[16Feb2025 18:44:27.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> nmms parece san roque cawn
+[16Feb2025 18:45:06.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios has made the advancement [A Small Smackerel]
+[16Feb2025 18:45:30.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> todas las misiones
+[16Feb2025 18:45:35.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> se ven en el azul?
