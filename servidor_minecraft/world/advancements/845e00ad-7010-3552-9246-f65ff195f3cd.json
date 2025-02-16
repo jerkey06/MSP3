@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/wooden_spoon": {
     "criteria": {
       "Recipes": "2025-02-15 23:28:09 +0000"
@@ -167,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 23:41:47 +0000"
@@ -206,6 +218,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2025-02-15 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -654,6 +672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/oven": {
     "criteria": {
       "Recipes": "2025-02-15 23:38:59 +0000"
@@ -759,6 +783,18 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-02-16 00:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
     },
     "done": true
   },
@@ -1019,9 +1055,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-16 00:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -1058,6 +1106,12 @@
   "regions_unexplored:recipes/ru_main/light_gray_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-15 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/prismaglass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -1121,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-02-15 23:29:32 +0000"
@@ -1130,6 +1190,12 @@
   "design_decor:recipes/design_decor/metal_sheet_wall_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-02-15 23:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -1160,6 +1226,12 @@
   "regions_unexplored:recipes/ru_main/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-16 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
     },
     "done": true
   },
@@ -1277,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-02-16 01:17:33 +0000"
@@ -1313,6 +1391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 23:39:56 +0000"
@@ -1340,6 +1424,12 @@
   "create:recipes/create.base/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-02-16 00:56:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -1400,6 +1490,12 @@
   "create:recipes/create.palettes/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-15 23:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -1964,6 +2060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-02-16 00:14:57 +0000"
@@ -1973,6 +2075,12 @@
   "extradelight:recipes/farmersdelight/sweet_berry_cheesecake": {
     "criteria": {
       "sweet_berry": "2025-02-16 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
     },
     "done": true
   },
@@ -2009,6 +2117,12 @@
   "regions_unexplored:recipes/ru_main/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2025-02-16 00:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -2069,6 +2183,12 @@
   "create:recipes/create.palettes/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-15 23:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
     },
     "done": true
   },
@@ -2177,6 +2297,12 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-02-15 23:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
     },
     "done": true
   },
@@ -2321,6 +2447,12 @@
   "everycomp:recipes/handcrafted.main/hc/regions_unexplored/maple_drawer": {
     "criteria": {
       "has_planks": "2025-02-16 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -2480,6 +2612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/decorations/crab_trap": {
     "criteria": {
       "has_stick": "2025-02-15 23:28:14 +0000",
@@ -2496,6 +2634,12 @@
   "regions_unexplored:recipes/ru_main/willow_boat": {
     "criteria": {
       "in_water": "2025-02-15 23:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -2623,6 +2767,12 @@
       "glow_berries": "2025-02-15 23:48:29 +0000"
     },
     "done": false
+  },
+  "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-16 18:52:47 +0000"
+    },
+    "done": true
   },
   "create_dd:recipes/create_dd.palettes/crafting/decor/brown_asphalt_block": {
     "criteria": {
@@ -2826,6 +2976,12 @@
   "copycats:recipes/copycats.main/stonecutting/copycat_half_layer": {
     "criteria": {
       "has_item": "2025-02-16 00:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
     },
     "done": true
   },
@@ -3183,6 +3339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-16 00:05:43 +0000"
@@ -3363,6 +3525,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/copycats.main/stonecutting/copycat_ladder": {
     "criteria": {
       "has_item": "2025-02-16 00:56:58 +0000"
@@ -3390,6 +3564,12 @@
   "extradelight:recipes/misc/mortar/yellow_dye": {
     "criteria": {
       "Recipes": "2025-02-16 01:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -3426,6 +3606,12 @@
   "nethersdelight:recipes/nethersdelight/blackstone_blast_furnace": {
     "criteria": {
       "has_iron": "2025-02-15 23:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -3474,6 +3660,12 @@
   "design_decor:recipes/design_decor/granite_castel_tile_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-15 23:36:22 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/tools/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-02-16 18:52:41 +0000"
     },
     "done": true
   },
@@ -3670,6 +3862,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/ribbon_bow_yellow": {
     "criteria": {
       "yellow_bow": "2025-02-15 23:31:09 +0000"
@@ -3724,6 +3922,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/candy_bowl": {
+    "criteria": {
+      "Recipes": "2025-02-16 18:52:47 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/jungle_step_stool": {
     "criteria": {
       "jungle_step_stool": "2025-02-15 23:28:14 +0000"
@@ -3769,6 +3973,12 @@
   "extradelight:recipes/extradelight.items/jerky": {
     "criteria": {
       "has_meat": "2025-02-15 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -3853,6 +4063,12 @@
   "create:recipes/create.palettes/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-02-15 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
     },
     "done": true
   },
@@ -4003,6 +4219,12 @@
   "everycomp:recipes/everycomp/hc/regions_unexplored/maple_side_table": {
     "criteria": {
       "has_planks": "2025-02-16 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },
@@ -4229,6 +4451,12 @@
     },
     "done": true
   },
+  "copycats:recipes/copycats.main/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-16 18:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-16 00:05:43 +0000"
@@ -4280,6 +4508,18 @@
   "create:recipes/create.base/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_item": "2025-02-16 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-16 18:55:25 +0000"
     },
     "done": true
   },
@@ -4358,6 +4598,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-16 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-16 18:52:47 +0000"
     },
     "done": true
   },

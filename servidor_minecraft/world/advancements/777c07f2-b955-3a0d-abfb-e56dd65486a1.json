@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-16 18:52:19 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_limited_barrel_4": {
     "criteria": {
       "has_oak_plank": "2025-02-15 23:29:48 +0000"
@@ -308,6 +314,12 @@
   "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-16 03:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-16 18:54:14 +0000"
     },
     "done": true
   },
@@ -789,6 +801,12 @@
   "everycomp:recipes/everycomp/fd/regions_unexplored/maple_cabinet": {
     "criteria": {
       "has_planks": "2025-02-16 03:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-16 18:54:14 +0000"
     },
     "done": true
   },
@@ -1781,6 +1799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-16 18:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-16 00:33:00 +0000"
@@ -1907,6 +1931,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-02-16 18:52:19 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/ribbon_bow_red": {
     "criteria": {
       "red_bow": "2025-02-15 23:32:49 +0000"
@@ -1988,6 +2018,12 @@
   "everycomp:recipes/everycomp/c/regions_unexplored/maple_window": {
     "criteria": {
       "has_planks": "2025-02-16 03:46:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-16 18:56:48 +0000"
     },
     "done": true
   },
@@ -3027,6 +3063,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-16 18:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-16 00:06:04 +0000"
@@ -3174,6 +3216,12 @@
   "everycomp:recipes/handcrafted.main/hc/regions_unexplored/maple_counter": {
     "criteria": {
       "has_planks": "2025-02-16 03:46:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-16 18:56:48 +0000"
     },
     "done": true
   },
@@ -3744,12 +3792,14 @@
       "minecraft:sunflower_plains": "2025-02-16 00:01:03 +0000",
       "minecraft:birch_forest": "2025-02-16 00:22:37 +0000",
       "minecraft:bamboo_jungle": "2025-02-16 00:19:19 +0000",
+      "minecraft:stony_peaks": "2025-02-16 18:53:17 +0000",
       "minecraft:sparse_jungle": "2025-02-16 00:17:45 +0000",
       "minecraft:river": "2025-02-16 00:00:56 +0000",
       "minecraft:forest": "2025-02-16 00:10:20 +0000",
       "minecraft:lush_caves": "2025-02-15 23:37:44 +0000",
       "minecraft:jungle": "2025-02-16 00:18:56 +0000",
       "minecraft:flower_forest": "2025-02-15 23:59:50 +0000",
+      "minecraft:deep_dark": "2025-02-16 18:52:59 +0000",
       "minecraft:meadow": "2025-02-15 23:55:25 +0000",
       "minecraft:savanna": "2025-02-16 00:05:02 +0000",
       "minecraft:plains": "2025-02-16 00:09:54 +0000"
