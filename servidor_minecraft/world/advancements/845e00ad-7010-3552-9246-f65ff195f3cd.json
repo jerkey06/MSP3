@@ -774,15 +774,15 @@
     },
     "done": true
   },
-  "extradelight:recipes/brewing/mortar/blaze_powder": {
-    "criteria": {
-      "Recipes": "2025-02-16 05:16:10 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/everycomp/hc/regions_unexplored/maple_fancy_bed": {
     "criteria": {
       "has_planks": "2025-02-16 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/brewing/mortar/blaze_powder": {
+    "criteria": {
+      "Recipes": "2025-02-16 05:16:10 +0000"
     },
     "done": true
   },
@@ -1841,6 +1841,7 @@
       "minecraft:sunflower_plains": "2025-02-16 00:00:31 +0000",
       "minecraft:birch_forest": "2025-02-16 00:59:54 +0000",
       "minecraft:bamboo_jungle": "2025-02-16 00:19:22 +0000",
+      "minecraft:badlands": "2025-02-16 18:31:23 +0000",
       "minecraft:stony_peaks": "2025-02-16 00:44:28 +0000",
       "minecraft:sparse_jungle": "2025-02-16 00:17:38 +0000",
       "minecraft:river": "2025-02-16 00:00:28 +0000",
@@ -2702,15 +2703,15 @@
     },
     "done": true
   },
-  "crabbersdelight:recipes/misc/bucket_of_shrimp_chum": {
-    "criteria": {
-      "has_bone_meal": "2025-02-16 05:16:10 +0000"
-    },
-    "done": true
-  },
   "extradelight:recipes/extradelight.items/food_display": {
     "criteria": {
       "Recipes": "2025-02-16 04:15:23 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/misc/bucket_of_shrimp_chum": {
+    "criteria": {
+      "has_bone_meal": "2025-02-16 05:16:10 +0000"
     },
     "done": true
   },
@@ -2891,6 +2892,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-02-16 00:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-02-16 18:31:43 +0000"
     },
     "done": true
   },
@@ -3248,15 +3255,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/ru_main/overgrown_bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-02-16 05:16:10 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/everycomp/ddr/regions_unexplored/maple_counter": {
     "criteria": {
       "has_planks": "2025-02-16 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-16 05:16:10 +0000"
     },
     "done": true
   },
