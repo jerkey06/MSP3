@@ -4369,3 +4369,46 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [16Feb2025 18:45:06.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios has made the advancement [A Small Smackerel]
 [16Feb2025 18:45:30.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> todas las misiones
 [16Feb2025 18:45:35.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> se ven en el azul?
+[16Feb2025 18:45:39.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> simon
+[16Feb2025 18:45:41.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> ok
+[16Feb2025 18:46:02.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> mañana no chambeo voy a rushearme todo el server cawn xdd
+[16Feb2025 18:46:17.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> rushear que we
+[16Feb2025 18:46:23.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> es hacer las maquinas
+[16Feb2025 18:46:36.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> aaaaaaaaaaaaaaaaaa
+[16Feb2025 18:46:39.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> es de esos?
+[16Feb2025 18:46:43.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> simon
+[16Feb2025 18:46:55.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> vamos a hacer una granjad e madera
+[16Feb2025 18:47:08.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> pero ahorita estamos haciendo un nuevo pueblo para los aldeanos
+[16Feb2025 18:47:13.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> la infona w
+[16Feb2025 18:47:23.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> dejen me equipo con lo minimo
+[16Feb2025 18:47:25.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios has made the advancement [Stone Age]
+[16Feb2025 18:47:37.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios has made the advancement [Getting an Upgrade]
+[16Feb2025 18:48:53.125] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[16Feb2025 18:48:53.153] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[16Feb2025 18:48:53.153] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[16Feb2025 18:49:47.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrewMartz has made the advancement [Sculk Cymbal]
+[16Feb2025 18:49:52.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[16Feb2025 18:50:03.854] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[16Feb2025 18:50:57.509] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11307 Ticks
+[16Feb2025 18:51:04.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> sabian que si uno duerme ya todo se hace de dia?
+[16Feb2025 18:51:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> smn w
+[16Feb2025 18:51:11.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> desde ayer
+[16Feb2025 18:51:33.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> traigan vidrio y carbon
+[16Feb2025 18:51:49.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> en mi casa tengo
+[16Feb2025 18:51:51.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ve
+[16Feb2025 18:52:02.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> que casa
+[16Feb2025 18:52:08.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> la de cobre
+[16Feb2025 18:52:59.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios fell from a high place
+[16Feb2025 18:53:02.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> xd
+[16Feb2025 18:53:07.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> no la vi xdd
+[16Feb2025 18:53:15.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> tp?
+[16Feb2025 18:53:19.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> me tepean chi uwu?
+[16Feb2025 18:53:24.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported Misadios to jkEmi_]
+[16Feb2025 18:55:09.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios was doomed to fall by Skeleton
+[16Feb2025 18:55:11.030] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MSP3/servidor_minecraft/config/jecalculation/records.json.
+[16Feb2025 18:55:13.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> xddd
+[16Feb2025 18:55:15.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported Misadios to jkEmi_]
+[16Feb2025 18:55:17.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> amigo que onda con los esqueletos
+[16Feb2025 18:55:18.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> pss a donde vas?
+[16Feb2025 18:55:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> nooooooooooooooo
+[16Feb2025 18:55:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> ya tenia tp ahi xdd

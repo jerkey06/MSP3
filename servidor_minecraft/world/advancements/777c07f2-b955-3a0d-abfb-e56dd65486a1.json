@@ -474,6 +474,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 18:46:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/birch_branch_from_birch_log": {
     "criteria": {
       "has_log": "2025-02-16 01:16:44 +0000"
@@ -1479,6 +1485,7 @@
       "highland_fields": "2025-02-15 23:53:46 +0000",
       "mountains": "2025-02-15 23:56:39 +0000",
       "sparse_redwoods": "2025-02-16 00:20:53 +0000",
+      "deciduous_forest": "2025-02-16 18:51:27 +0000",
       "temperate_grove": "2025-02-16 00:13:53 +0000",
       "pine_slopes": "2025-02-15 23:56:19 +0000",
       "grassland": "2025-02-16 00:15:28 +0000",
@@ -2050,6 +2057,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/muffin_sweet_berry": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 18:46:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-15 23:32:49 +0000"
@@ -2215,6 +2228,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-15 23:39:41 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/sweet_berry_to_block": {
+    "criteria": {
+      "Recipes": "2025-02-16 18:46:02 +0000"
     },
     "done": true
   },
@@ -2771,6 +2790,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-16 18:46:02 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/knives/nickel_knife": {
     "criteria": {
       "has_nickel": "2025-02-16 04:09:42 +0000"
@@ -2822,6 +2847,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-15 23:39:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-02-16 18:49:47 +0000"
     },
     "done": true
   },
@@ -2910,6 +2941,7 @@
       "highland_fields": "2025-02-15 23:53:46 +0000",
       "mountains": "2025-02-15 23:56:39 +0000",
       "sparse_redwoods": "2025-02-16 00:20:53 +0000",
+      "deciduous_forest": "2025-02-16 18:51:27 +0000",
       "temperate_grove": "2025-02-16 00:13:53 +0000",
       "pine_slopes": "2025-02-15 23:56:19 +0000",
       "grassland": "2025-02-16 00:15:28 +0000",
@@ -3166,6 +3198,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-16 03:40:48 +0000",
+      "minecraft:spider": "2025-02-16 18:48:18 +0000",
       "minecraft:zombie": "2025-02-16 00:55:24 +0000",
       "minecraft:zombie_villager": "2025-02-16 00:55:55 +0000"
     },
@@ -3216,6 +3249,12 @@
   "regions_unexplored:recipes/ru_main/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2025-02-16 01:16:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-16 18:46:02 +0000"
     },
     "done": true
   },
@@ -3384,6 +3423,12 @@
   "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-15 23:39:41 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/sweet_berry_pie": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 18:46:02 +0000"
     },
     "done": true
   },
@@ -3759,6 +3804,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/farmersdelight/sweet_berry_cheesecake": {
+    "criteria": {
+      "sweet_berry": "2025-02-16 18:46:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-15 23:33:34 +0000"
@@ -3780,6 +3831,12 @@
   "extradelight:recipes/food/cake": {
     "criteria": {
       "has_any_ingredient": "2025-02-16 00:26:18 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/farmersdelight/sweet_berry_cheesecake_jam": {
+    "criteria": {
+      "sweet_berry": "2025-02-16 18:46:02 +0000"
     },
     "done": true
   },
@@ -4104,6 +4161,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-02-16 02:32:57 +0000",
+      "sweet_berries": "2025-02-16 18:49:32 +0000",
       "cooked_beef": "2025-02-16 03:16:25 +0000",
       "porkchop": "2025-02-16 00:03:30 +0000",
       "apple": "2025-02-16 00:17:26 +0000",
@@ -4569,6 +4627,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-02-16 18:46:16 +0000"
+    },
+    "done": false
+  },
   "extradelight:start": {
     "criteria": {
       "start": "2025-02-15 23:28:19 +0000"
@@ -4951,6 +5015,12 @@
   "farmersdelight:recipes/farmersdelight/onion_crate": {
     "criteria": {
       "has_onion": "2025-02-16 05:30:42 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/sweet_berry_juice": {
+    "criteria": {
+      "Recipes": "2025-02-16 18:46:02 +0000"
     },
     "done": true
   },

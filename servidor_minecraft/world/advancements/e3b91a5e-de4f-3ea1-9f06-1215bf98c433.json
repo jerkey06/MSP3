@@ -1,0 +1,851 @@
+{
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-16 18:48:43 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/wooden_spoon": {
+    "criteria": {
+      "Recipes": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-02-16 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-02-16 18:51:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
+    "criteria": {
+      "has_plank": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/white_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_step_stool": {
+    "criteria": {
+      "crimson_step_stool": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "extradelight:start": {
+    "criteria": {
+      "start": "2025-02-16 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-16 18:51:52 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_step_stool": {
+    "criteria": {
+      "oak_step_stool": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/crabbersdelight/crab_trap": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000",
+      "has_the_recipe": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/sweet_berry_pie": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-02-16 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-16 18:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-02-16 18:51:20 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/muffin_sweet_berry": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_step_stool": {
+    "criteria": {
+      "spruce_step_stool": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-16 18:47:37 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/decorations/crab_trap": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-16 18:51:26 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/jungle_step_stool": {
+    "criteria": {
+      "jungle_step_stool": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/orange_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-02-16 18:46:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jelly_bottle": {
+    "criteria": {
+      "has_sweet_fruit": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-16 18:42:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/mixing_bowl": {
+    "criteria": {
+      "Recipes": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/red_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-02-16 18:51:08 +0000",
+      "bread": "2025-02-16 18:45:06 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/ru_main/purple_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/lattice": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "pine_taiga": "2025-02-16 18:50:56 +0000",
+      "ochard": "2025-02-16 18:43:00 +0000",
+      "temperate_grove": "2025-02-16 18:44:14 +0000"
+    },
+    "done": false
+  },
+  "decoration_delight:decoration_101_advancement": {
+    "criteria": {
+      "decoration_101_advancement": "2025-02-16 18:42:59 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/acacia_step_stool": {
+    "criteria": {
+      "acacia_step_stool": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-16 18:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-16 18:50:08 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/tools/slicer": {
+    "criteria": {
+      "has_tool": "2025-02-16 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/light_blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/offset_spatula_wood": {
+    "criteria": {
+      "Recipes": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/brown_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-16 18:46:54 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
+    "criteria": {
+      "has_plank": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "pine_taiga": "2025-02-16 18:50:56 +0000",
+      "ochard": "2025-02-16 18:43:00 +0000",
+      "temperate_grove": "2025-02-16 18:44:14 +0000"
+    },
+    "done": false
+  },
+  "extradelight:recipes/extradelight.items/sweet_berry_to_block": {
+    "criteria": {
+      "Recipes": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/bratwurst_bread_bc": {
+    "criteria": {
+      "book": "2025-02-16 18:44:42 +0000"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-02-16 18:42:59 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-02-16 18:42:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-16 18:46:54 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/oven": {
+    "criteria": {
+      "Recipes": "2025-02-16 18:48:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-02-16 18:42:59 +0000"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2025-02-16 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-02-16 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-02-16 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/green_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-16 18:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-02-16 18:50:58 +0000",
+      "minecraft:forest": "2025-02-16 18:50:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-16 18:46:12 +0000"
+    },
+    "done": true
+  },
+  "extradelight:food": {
+    "criteria": {
+      "food": "2025-02-16 18:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-16 18:45:06 +0000"
+    },
+    "done": true
+  },
+  "vintageimprovements:root": {
+    "criteria": {
+      "0": "2025-02-16 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/wood_support_from_planks_stonecutting": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-02-16 18:43:00 +0000",
+      "inv_changed-diamond": "2025-02-16 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-16 18:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/warped_step_stool": {
+    "criteria": {
+      "warped_step_stool": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/farmersdelight/sweet_berry_cheesecake": {
+    "criteria": {
+      "sweet_berry": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-02-16 18:46:12 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/sweet_berry_juice": {
+    "criteria": {
+      "Recipes": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_step_stool": {
+    "criteria": {
+      "mangrove_step_stool": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-02-16 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/wooden_shield": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_step_stool": {
+    "criteria": {
+      "dark_oak_step_stool": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/yellow_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/cinnamon_step_stool": {
+    "criteria": {
+      "cinnamon_step_stool": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-02-16 18:46:12 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/farmersdelight/sweet_berry_cheesecake_jam": {
+    "criteria": {
+      "sweet_berry": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/lime_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-16 18:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/misc/crafting/coal_from_coal_piece": {
+    "criteria": {
+      "has_coal": "2025-02-16 18:51:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-02-16 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-02-16 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-02-16 18:42:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/magenta_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-16 18:47:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pink_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-16 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-16 18:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/birch_step_stool": {
+    "criteria": {
+      "birch_step_stool": "2025-02-16 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "decoration_delight:the_search_begins_advancement": {
+    "criteria": {
+      "the_search_begins_advancement": "2025-02-16 18:42:59 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
