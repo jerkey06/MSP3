@@ -4623,3 +4623,60 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [16Feb2025 19:43:44.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> jaja se pueden cocinar las mansanas
 [16Feb2025 19:43:49.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> si xddd
 [16Feb2025 19:43:54.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> ta bien raro el mod
+[16Feb2025 19:46:43.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> nooooooo
+[16Feb2025 19:46:46.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> es la subidita
+[16Feb2025 19:46:51.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> asi va we
+[16Feb2025 19:46:54.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> xddd
+[16Feb2025 19:47:09.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> porque crees que va de 4 de ancho
+[16Feb2025 19:47:13.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> nomas fue un bloque igual
+[16Feb2025 19:47:18.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> nah ntp
+[16Feb2025 19:47:25.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> tons 4 bloques de ancho por escalon?
+[16Feb2025 19:47:30.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> si
+[16Feb2025 19:47:36.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> yap
+[16Feb2025 19:47:42.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> de los costados no?
+[16Feb2025 19:47:56.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> por ahora no
+[16Feb2025 19:52:28.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios has made the advancement [Sweet Dreams]
+[16Feb2025 19:52:31.502] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11289 Ticks
+[16Feb2025 19:56:45.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> dame todos los bloques basura que tengas
+[16Feb2025 20:03:03.652] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11358 Ticks
+[16Feb2025 20:03:41.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> ten
+[16Feb2025 20:03:48.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> pa que tales los arboles mas rapido
+[16Feb2025 20:03:52.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> OK
+[16Feb2025 20:03:55.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> sabes como funciona?
+[16Feb2025 20:04:14.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> nomas es juntar los dos aparatos no?
+[16Feb2025 20:04:18.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> si
+[16Feb2025 20:11:49.589] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[16Feb2025 20:11:49.589] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[16Feb2025 20:11:49.589] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[16Feb2025 20:11:49.590] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[16Feb2025 20:11:49.590] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[16Feb2025 20:11:49.590] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[16Feb2025 20:11:49.591] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[16Feb2025 20:11:56.697] [Worker-Main-6/WARN] [ModernFix/]: The namespace idas contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Feb2025 20:13:28.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[16Feb2025 20:13:28.207] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -59490 Ticks
+[16Feb2025 20:13:50.481] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[16Feb2025 20:16:13.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> nmms si aplanaron un chingo
+[16Feb2025 20:16:24.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> que tal si hacemos una mina con el create?
+[16Feb2025 20:16:35.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> para chetarnos y hacer esta madre mas rapido
+[16Feb2025 20:16:51.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> idk
+[16Feb2025 20:17:06.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> ya cree otro escalon
+[16Feb2025 20:17:11.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> yo me tengo que ir w
+[16Feb2025 20:17:16.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> bai
+[16Feb2025 20:17:16.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> ahh
+[16Feb2025 20:17:20.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> vaho
+[16Feb2025 20:17:26.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misadios lost connection: Disconnected
+[16Feb2025 20:17:26.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios left the game
+[16Feb2025 20:17:26.305] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e3b91a5e-de4f-3ea1-9f06-1215bf98c433
+[16Feb2025 20:18:18.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 400    [Andesite] to jkEmi_]
+[16Feb2025 20:21:28.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 64    [Yellow Bed] to jkEmi_]
+[16Feb2025 20:23:02.051] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11524 Ticks
+[16Feb2025 20:24:17.766] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6070682
+[16Feb2025 20:24:17.781] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MSP3/servidor_minecraft/config/jecalculation/records.json.
+[16Feb2025 20:24:17.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrewMartz[/127.118.247.235:48699] logged in with entity id 35514 at (-2744.300000011921, 146.0, -3418.5346202554647)
+[16Feb2025 20:24:17.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrewMartz joined the game
+[16Feb2025 20:24:17.851] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 777c07f2-b955-3a0d-abfb-e56dd65486a1
+[16Feb2025 20:24:17.857] [Server thread/INFO] [Jade/]: Syncing config to DrewMartz (777c07f2-b955-3a0d-abfb-e56dd65486a1)
+[16Feb2025 20:24:18.472] [Server thread/INFO] [ping-wheel/]: Channel update: DrewMartz -> default
+[16Feb2025 20:24:49.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> im back
+[16Feb2025 20:24:53.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> en q se quedaron?

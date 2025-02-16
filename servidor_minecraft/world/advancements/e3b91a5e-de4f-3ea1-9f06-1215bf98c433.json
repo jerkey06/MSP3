@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/c/regions_unexplored/pine_window_pane": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-02-16 19:33:37 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/ddr/regions_unexplored/pine_counter": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-02-16 18:46:20 +0000"
@@ -140,6 +152,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/regions_unexplored/pine_seat": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -191,9 +209,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/regions_unexplored/pine_beam": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-02-16 18:47:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -236,6 +266,24 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-16 19:50:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/ddr/regions_unexplored/pine_counter_1": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_chair": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -290,6 +338,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-02-16 18:51:08 +0000",
+      "cooked_beef": "2025-02-16 20:16:31 +0000",
       "apple": "2025-02-16 19:19:36 +0000",
       "bread": "2025-02-16 18:45:06 +0000"
     },
@@ -304,6 +353,12 @@
   "regions_unexplored:recipes/ru_main/baobab_boat": {
     "criteria": {
       "in_water": "2025-02-16 18:55:04 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/smelting/roasted_apple_smelt": {
+    "criteria": {
+      "has_the_recipe": "2025-02-16 20:01:52 +0000"
     },
     "done": true
   },
@@ -418,6 +473,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/pine_shrub": {
     "criteria": {
       "has_pine_sapling": "2025-02-16 19:31:18 +0000"
@@ -427,6 +488,12 @@
   "regions_unexplored:recipes/ru_main/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-16 19:50:49 +0000"
     },
     "done": true
   },
@@ -517,15 +584,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-16 19:50:49 +0000"
+    },
+    "done": true
+  },
   "create_central_kitchen:recipes/crafting/tomato_sauce_bucket_from_bowls": {
     "criteria": {
       "has_bucket": "2025-02-16 19:26:05 +0000"
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/campfire/roasted_apple_fire": {
+    "criteria": {
+      "book": "2025-02-16 20:01:52 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/bratwurst_bread_bc": {
     "criteria": {
       "book": "2025-02-16 18:44:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -553,6 +638,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-16 19:50:49 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/smoking/roasted_apple_smoke": {
+    "criteria": {
+      "book": "2025-02-16 20:01:52 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/metal_plate_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-02-16 18:58:57 +0000"
@@ -562,6 +659,12 @@
   "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-16 19:09:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/handcrafted.main/hc/regions_unexplored/pine_counter": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -637,6 +740,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/c/regions_unexplored/pine_window": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-02-16 18:47:25 +0000"
@@ -670,6 +779,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-02-16 19:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-16 19:52:28 +0000"
     },
     "done": true
   },
@@ -793,6 +908,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_fancy_bed": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/socotra_boat": {
     "criteria": {
       "in_water": "2025-02-16 18:55:04 +0000"
@@ -844,6 +965,12 @@
   "design_decor:recipes/design_decor/metal_support_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-02-16 18:58:57 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_corner_trim": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -979,9 +1106,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/fd/regions_unexplored/pine_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -1045,6 +1184,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/ddr/regions_unexplored/pine_counter_bend": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-16 19:09:59 +0000"
@@ -1075,6 +1220,12 @@
     },
     "done": true
   },
+  "extradelight:meals": {
+    "criteria": {
+      "ROASTED_APPLE": "2025-02-16 20:01:52 +0000"
+    },
+    "done": false
+  },
   "extradelight:recipes/extradelight.items/grater": {
     "criteria": {
       "Recipes": "2025-02-16 18:58:57 +0000"
@@ -1093,15 +1244,51 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-02-16 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_side_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/mortar_stone": {
     "criteria": {
       "has_stone": "2025-02-16 19:09:59 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-16 19:50:49 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/iron_spoon": {
     "criteria": {
       "Recipes": "2025-02-16 18:58:57 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/handcrafted.main/hc/regions_unexplored/pine_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -1145,6 +1332,18 @@
   "design_decor:recipes/design_decor/andesite_castel_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-16 19:09:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_desk": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/ddr/regions_unexplored/pine_mosaic": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -1215,6 +1414,12 @@
     },
     "done": true
   },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "pine_log": "2025-02-16 19:55:50 +0000"
+    },
+    "done": false
+  },
   "design_decor:recipes/design_decor/metal_sheet_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-02-16 18:58:57 +0000"
@@ -1263,6 +1468,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/birch_shrub": {
     "criteria": {
       "has_birch_sapling": "2025-02-16 18:46:29 +0000"
@@ -1278,6 +1495,12 @@
   "design_decor:recipes/design_decor/metal_plate_stairs_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-02-16 18:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-16 19:50:49 +0000"
     },
     "done": true
   },
@@ -1305,9 +1528,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_couch": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 19:36:57 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/regions_unexplored/pine_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -1341,9 +1576,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-02-16 19:55:50 +0000"
+    },
+    "done": true
+  },
   "decoration_delight:decoration_101_advancement": {
     "criteria": {
       "decoration_101_advancement": "2025-02-16 18:42:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/ddr/regions_unexplored/pine_countertop": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -1368,6 +1615,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
     "criteria": {
       "has_torch": "2025-02-16 18:50:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/handcrafted.main/hc/regions_unexplored/pine_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -1455,6 +1708,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/pine_wood": {
+    "criteria": {
+      "has_log": "2025-02-16 19:55:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 19:36:57 +0000"
@@ -1491,6 +1750,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/regions_unexplored/pine_support": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-02-16 18:42:59 +0000"
@@ -1509,6 +1774,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/ddr/regions_unexplored/pine_stool": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/andesite_castel_tile_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-16 19:09:59 +0000"
@@ -1524,6 +1795,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-02-16 18:58:01 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -1602,6 +1879,12 @@
   "extradelight:recipes/extradelight.items/apple_crisp_feast": {
     "criteria": {
       "has_any_ingredient": "2025-02-16 19:19:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -1789,6 +2072,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-16 18:55:04 +0000"
@@ -1879,6 +2174,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_bench": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/metal_sheet_slab_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-02-16 18:58:57 +0000"
@@ -1894,6 +2201,12 @@
   "regions_unexplored:recipes/ru_main/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/ddr/regions_unexplored/pine_counter_corner": {
+    "criteria": {
+      "has_planks": "2025-02-16 19:56:34 +0000"
     },
     "done": true
   },
@@ -1933,6 +2246,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-16 19:50:49 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/andesite_castel_tiles_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-16 19:09:59 +0000"
@@ -1948,6 +2267,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-02-16 18:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-16 19:50:49 +0000"
     },
     "done": true
   },
