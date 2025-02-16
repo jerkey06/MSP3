@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/empty_sandwich": {
+    "criteria": {
+      "Recipes": "2025-02-16 23:55:31 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2025-02-15 23:28:09 +0000"
@@ -1497,6 +1503,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-02-15 23:33:48 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/bratwurst_bc": {
+    "criteria": {
+      "book": "2025-02-16 23:55:31 +0000"
     },
     "done": true
   },
@@ -2577,6 +2589,12 @@
       "fried_rice": "2025-02-15 23:36:01 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-02-16 23:55:26 +0000"
+    },
+    "done": true
   },
   "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
@@ -4033,6 +4051,12 @@
     },
     "done": true
   },
+  "extradelight:ingredients": {
+    "criteria": {
+      "BREAD_SLICE": "2025-02-16 23:55:31 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-02-16 20:19:19 +0000"
@@ -4180,6 +4204,12 @@
   "crabbersdelight:recipes/food/cooked_tropical_fish": {
     "criteria": {
       "cooked_tropical_fish": "2025-02-15 23:36:50 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/french_toast": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 23:55:31 +0000"
     },
     "done": true
   },
