@@ -4457,3 +4457,42 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [17Feb2025 02:13:53.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
 [17Feb2025 02:13:55.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
 [17Feb2025 02:13:55.044] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -6486 Ticks
+[17Feb2025 02:15:51.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2568.500000, 116.500000, -3276.500000]
+[17Feb2025 02:18:36.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> cual granja toca hacer w?
+[17Feb2025 02:19:12.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 02:19:30.198] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
+[17Feb2025 02:22:12.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 02:22:12.543] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -9949 Ticks
+[17Feb2025 02:24:20.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 02:24:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2782.500000, 155.500000, -3292.500000]
+[17Feb2025 02:25:07.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> quieres chanwich de huevo?
+[17Feb2025 02:25:11.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> va
+[17Feb2025 02:25:18.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ty
+[17Feb2025 02:25:33.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> es d wewito con hamon?
+[17Feb2025 02:25:42.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> aqui hay de tocino
+[17Feb2025 02:25:50.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> salkdhlakdf
+[17Feb2025 02:25:53.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> thanks
+[17Feb2025 02:26:03.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> m voy a hacer un avion
+[17Feb2025 02:26:09.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> nmms
+[17Feb2025 02:26:13.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> avion de que
+[17Feb2025 02:26:18.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> biplano
+[17Feb2025 02:26:23.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2562.500000, 116.500000, -3269.500000]
+[17Feb2025 02:28:37.355] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[17Feb2025 02:28:41.101] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[17Feb2025 02:28:41.127] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[17Feb2025 02:28:41.127] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[17Feb2025 02:28:57.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> onde va quedar el aeropuerto w
+[17Feb2025 02:29:28.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 02:29:53.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> ya tenemos esmeraldas infinitas
+[17Feb2025 02:30:01.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> voy
+[17Feb2025 02:30:04.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2775.500000, 154.500000, -3293.500000]
+[17Feb2025 02:30:24.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2811.500000, 157.500000, -3297.500000]
+[17Feb2025 02:30:37.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2568.500000, 116.500000, -3249.500000]
+[17Feb2025 02:30:42.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> nmms
+[17Feb2025 02:30:50.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> que hiciste
+[17Feb2025 02:31:24.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 02:31:24.243] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11033 Ticks
+[17Feb2025 02:32:57.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> avr
+[17Feb2025 02:33:06.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> es con palos
+[17Feb2025 02:34:09.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> este da comida
+[17Feb2025 02:34:20.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> voy por madera
