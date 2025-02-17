@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-02-17 03:45:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-16 03:22:11 +0000"
@@ -759,6 +765,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-02-17 02:29:47 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/copycats.main/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2025-02-17 03:45:46 +0000"
     },
     "done": true
   },
@@ -1017,6 +1029,12 @@
   "farmersdelight:recipes/farmersdelight/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-02-16 01:22:24 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-02-17 03:43:09 +0000"
     },
     "done": true
   },
@@ -2724,6 +2742,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/crafting/kinetics/redstone_divider": {
+    "criteria": {
+      "has_cogwheel": "2025-02-17 03:45:46 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/hc/regions_unexplored/pine_corner_trim": {
     "criteria": {
       "has_planks": "2025-02-16 22:47:51 +0000"
@@ -2871,6 +2895,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-16 20:48:45 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-02-17 03:45:46 +0000"
     },
     "done": true
   },
@@ -3093,6 +3123,12 @@
   "interiors:recipes/interiors/crafting/chair/gray_chair_from_seat": {
     "criteria": {
       "has_seat": "2025-02-16 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-02-17 03:45:46 +0000"
     },
     "done": true
   },
@@ -3985,6 +4021,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/crafting/kinetics/inverse_box": {
+    "criteria": {
+      "has_cogwheel": "2025-02-17 03:45:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-16 00:58:29 +0000"
@@ -4180,6 +4222,12 @@
   "extradelight:recipes/extradelight.aesthetic/oak_dried_corn_fence": {
     "criteria": {
       "oak_dried_corn_fence": "2025-02-16 23:22:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-02-17 03:47:39 +0000"
     },
     "done": true
   },
@@ -6405,6 +6453,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-02-17 03:45:46 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/diorite_castel_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-15 23:39:41 +0000"
@@ -6654,6 +6708,12 @@
   "create:recipes/create.palettes/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-15 23:39:41 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-02-17 03:44:44 +0000"
     },
     "done": true
   },
