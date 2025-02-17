@@ -4446,3 +4446,14 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [17Feb2025 02:02:19.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2567.500000, 116.500000, -3263.500000]
 [17Feb2025 02:02:22.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
 [17Feb2025 02:02:22.747] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -8805 Ticks
+[17Feb2025 02:07:02.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2771.500000, 137.500000, -3480.500000]
+[17Feb2025 02:07:23.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2559.500000, 116.500000, -3271.500000]
+[17Feb2025 02:08:30.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 02:08:30.695] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -7358 Ticks
+[17Feb2025 02:08:36.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 02:10:43.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2775.500000, 137.500000, -3475.500000]
+[17Feb2025 02:11:47.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jkEmi_ moved wrongly!
+[17Feb2025 02:11:47.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jkEmi_ moved wrongly!
+[17Feb2025 02:13:53.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 02:13:55.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 02:13:55.044] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -6486 Ticks

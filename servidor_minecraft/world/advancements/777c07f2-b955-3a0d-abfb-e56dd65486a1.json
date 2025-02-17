@@ -2238,6 +2238,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-02-17 01:59:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-02-15 23:32:49 +0000"
@@ -2415,6 +2421,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-02-16 01:21:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-02-17 01:59:32 +0000"
     },
     "done": true
   },
@@ -3868,6 +3880,12 @@
   "createindustry:recipes/createindustry.building/nickel_bars_from_ingots_nickel_stonecutting": {
     "criteria": {
       "has_ingots_nickel": "2025-02-16 04:09:42 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-02-17 01:59:28 +0000"
     },
     "done": true
   },
@@ -6728,6 +6746,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-02-17 01:59:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-02-16 01:38:57 +0000"
@@ -6943,6 +6967,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-15 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-02-17 01:59:32 +0000"
     },
     "done": true
   },
