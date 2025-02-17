@@ -4345,3 +4345,29 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [17Feb2025 04:03:46.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2566.500000, 116.500000, -3282.500000]
 [17Feb2025 04:04:09.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2208.500000, 103.500000, -3170.500000]
 [17Feb2025 04:04:12.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 04:05:32.669] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[17Feb2025 04:05:46.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2497.500000, 71.500000, -3568.500000]
+[17Feb2025 04:06:14.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2216.500000, 104.500000, -3158.500000]
+[17Feb2025 04:06:35.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ has made the advancement [We Need to Go Deeper]
+[17Feb2025 04:06:36.074] [Worker-Main-4/WARN] [ModernFix/]: The namespace idas contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Feb2025 04:06:54.303] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/ai/FindPlaceToSleepGoal$Target
+[17Feb2025 04:06:55.874] [Worker-Main-6/WARN] [ModernFix/]: The namespace takesapillage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Feb2025 04:06:57.613] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[17Feb2025 04:06:57.616] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[17Feb2025 04:06:59.800] [Worker-Main-5/WARN] [ModernFix/]: The namespace betterfortresses contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Feb2025 04:07:23.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2569.500000, 116.500000, -3285.500000]
+[17Feb2025 04:08:04.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2452.500000, 68.500000, -3287.500000]
+[17Feb2025 04:08:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2238.500000, 65.500000, -3336.500000]
+[17Feb2025 04:08:17.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2243.500000, 66.500000, -3423.500000]
+[17Feb2025 04:08:30.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2208.500000, 105.500000, -3172.500000]
+[17Feb2025 04:09:13.498] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[17Feb2025 04:09:13.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> tienes redstone?
+[17Feb2025 04:09:19.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 04:09:56.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 64    [Block of Redstone] to jkEmi_]
+[17Feb2025 04:10:44.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2418.500000, 68.500000, -3212.500000]
+[17Feb2025 04:11:02.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2552.500000, 116.500000, -3258.500000]
+[17Feb2025 04:11:55.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2765.500000, 137.500000, -3471.500000]
+[17Feb2025 04:12:25.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 04:12:25.607] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10831 Ticks
+[17Feb2025 04:14:20.912] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/item/ItemHelper$ExtractionCountMode
+[17Feb2025 04:14:26.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
