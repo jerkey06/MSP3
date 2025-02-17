@@ -2904,6 +2904,12 @@
     },
     "done": true
   },
+  "sliceanddice:recipes/tools/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-02-17 02:57:28 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/interiors/crafting/floor_chair/green_floor_chair_from_seat": {
     "criteria": {
       "has_seat": "2025-02-16 00:59:15 +0000"
@@ -3616,6 +3622,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-15 23:37:51 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/copycats.main/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-17 02:57:28 +0000"
     },
     "done": true
   },
