@@ -4292,3 +4292,21 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [17Feb2025 00:19:39.140] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
 [17Feb2025 00:20:12.150] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
 [17Feb2025 00:20:17.191] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11860 Ticks
+[17Feb2025 00:24:39.327] [Netty Epoll Server IO #3/INFO] [mixin/]: Mixing common.MixinServerStatusSerializer from nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus$Serializer
+[17Feb2025 00:24:43.015] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49cef19c
+[17Feb2025 00:24:43.033] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MSP3/servidor_minecraft/config/jecalculation/records.json.
+[17Feb2025 00:24:43.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jkEmi_[/127.156.162.102:59121] logged in with entity id 1829 at (-2566.5026082114355, 116.0, -3335.4351052129527)
+[17Feb2025 00:24:43.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ joined the game
+[17Feb2025 00:24:43.141] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 845e00ad-7010-3552-9246-f65ff195f3cd
+[17Feb2025 00:24:43.144] [Server thread/INFO] [Jade/]: Syncing config to jkEmi_ (845e00ad-7010-3552-9246-f65ff195f3cd)
+[17Feb2025 00:24:43.173] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[17Feb2025 00:24:43.794] [Server thread/INFO] [ping-wheel/]: Channel update: jkEmi_ -> default
+[17Feb2025 00:26:48.437] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/entity/Stoneling$StonelingVariant
+[17Feb2025 00:26:58.671] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[17Feb2025 00:27:01.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness
+[17Feb2025 00:27:02.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3917ms or 78 ticks behind
+[17Feb2025 00:28:09.359] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[17Feb2025 00:30:06.199] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[17Feb2025 00:30:40.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 00:30:40.548] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -35388 Ticks
+[17Feb2025 00:31:04.400] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
