@@ -4337,3 +4337,9 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [17Feb2025 01:01:10.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> tienes el mecanic drill?
 [17Feb2025 01:01:42.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2805.500000, 157.500000, -3307.500000]
 [17Feb2025 01:02:25.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2570.500000, 116.500000, -3275.500000]
+[17Feb2025 01:05:02.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 01:05:02.743] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10751 Ticks
+[17Feb2025 01:07:58.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2771.500000, 137.500000, -3480.500000]
+[17Feb2025 01:08:04.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2574.500000, 116.500000, -3267.500000]
+[17Feb2025 01:08:15.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 600    [Carrot] to jkEmi_]
+[17Feb2025 01:11:36.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2777.500000, 138.500000, -3471.500000]
