@@ -4327,3 +4327,21 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [17Feb2025 03:53:52.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
 [17Feb2025 03:53:53.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
 [17Feb2025 03:53:53.561] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -8841 Ticks
+[17Feb2025 03:54:47.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 10 players online: jkEmi_, DrewMartz
+[17Feb2025 03:55:47.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2775.500000, 137.500000, -3474.500000]
+[17Feb2025 03:55:58.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2564.500000, 116.500000, -3308.500000]
+[17Feb2025 03:58:02.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2204.500000, 103.500000, -3168.500000]
+[17Feb2025 03:58:26.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2352.500000, 86.500000, -2983.500000]
+[17Feb2025 03:58:27.151] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[17Feb2025 03:58:28.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ has made the advancement [Hot Stuff]
+[17Feb2025 03:58:42.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2192.500000, 107.500000, -3166.500000]
+[17Feb2025 03:58:56.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2357.500000, 86.500000, -2979.500000]
+[17Feb2025 03:59:03.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 03:59:09.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2203.500000, 103.500000, -3167.500000]
+[17Feb2025 04:02:05.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2355.500000, 86.500000, -2983.500000]
+[17Feb2025 04:02:15.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2210.500000, 107.500000, -3152.500000]
+[17Feb2025 04:03:23.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 04:03:24.011] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11408 Ticks
+[17Feb2025 04:03:46.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2566.500000, 116.500000, -3282.500000]
+[17Feb2025 04:04:09.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2208.500000, 103.500000, -3170.500000]
+[17Feb2025 04:04:12.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]

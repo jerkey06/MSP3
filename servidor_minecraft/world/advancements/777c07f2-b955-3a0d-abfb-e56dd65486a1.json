@@ -840,6 +840,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-17 03:55:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-16 21:59:00 +0000"
