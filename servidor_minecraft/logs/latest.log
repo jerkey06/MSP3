@@ -4480,3 +4480,11 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [17Feb2025 04:51:42.661] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 845e00ad-7010-3552-9246-f65ff195f3cd
 [17Feb2025 04:51:43.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> smn
 [17Feb2025 04:55:12.628] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44fd0f5d
+[17Feb2025 04:56:23.176] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[17Feb2025 04:56:28.203] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 9705 Ticks
+[17Feb2025 04:58:17.785] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting immersive_aircraft/entity/EngineAircraft$FuelState
+[17Feb2025 04:58:17.786] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting immersive_aircraft/entity/EngineAircraft$GUI_STYLE
+[17Feb2025 04:59:00.525] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting immersive_aircraft/network/c2s/CommandMessage$Key
+[17Feb2025 04:59:49.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrewMartz lost connection: Disconnected
+[17Feb2025 04:59:49.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrewMartz left the game
+[17Feb2025 04:59:49.055] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 777c07f2-b955-3a0d-abfb-e56dd65486a1

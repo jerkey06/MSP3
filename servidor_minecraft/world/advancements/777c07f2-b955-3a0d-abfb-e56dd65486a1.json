@@ -3396,6 +3396,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/yeast_pot_potion": {
+    "criteria": {
+      "Recipes": "2025-02-17 04:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-16 21:59:00 +0000"
@@ -4423,6 +4429,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/misc/blue_corn": {
+    "criteria": {
+      "Recipes": "2025-02-17 04:55:57 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/mixing_bowl": {
     "criteria": {
       "Recipes": "2025-02-15 23:29:48 +0000"
@@ -4772,6 +4784,12 @@
   "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-02-16 18:52:19 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/yeast_pot": {
+    "criteria": {
+      "Recipes": "2025-02-17 04:55:57 +0000"
     },
     "done": true
   },
@@ -5295,6 +5313,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/vinegar_pot_potion": {
+    "criteria": {
+      "Recipes": "2025-02-17 04:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-02-17 04:46:18 +0000"
@@ -5328,6 +5352,12 @@
   "extradelight:recipes/extradelight.items/mushroom_burger": {
     "criteria": {
       "Recipes": "2025-02-17 00:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-02-17 04:55:57 +0000"
     },
     "done": true
   },
@@ -6480,6 +6510,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2025-02-17 04:55:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-02-16 19:30:54 +0000"
@@ -7454,6 +7490,12 @@
   "create:recipes/create.palettes/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-16 21:57:16 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/vinegar_pot": {
+    "criteria": {
+      "Recipes": "2025-02-17 04:55:57 +0000"
     },
     "done": true
   },
