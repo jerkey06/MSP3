@@ -834,6 +834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-17 01:45:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-15 23:29:48 +0000"
@@ -2652,6 +2658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-17 01:45:00 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/interiors/crafting/floor_chair/light_blue_floor_chair": {
     "criteria": {
       "has_seat": "2025-02-16 00:59:15 +0000"
@@ -2727,6 +2739,12 @@
   "create:recipes/create.base/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2025-02-16 22:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-17 01:45:00 +0000"
     },
     "done": true
   },
@@ -3712,6 +3730,12 @@
   "create:recipes/create.base/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2025-02-16 22:14:44 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-02-17 01:46:17 +0000"
     },
     "done": true
   },
@@ -5711,6 +5735,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/misc/mortar/magenta_dye": {
+    "criteria": {
+      "Recipes": "2025-02-17 01:43:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2025-02-15 23:37:51 +0000"
@@ -6718,7 +6748,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-02-16 18:46:16 +0000"
+      "sweet_berries": "2025-02-16 18:46:16 +0000",
+      "carrot": "2025-02-17 01:42:27 +0000"
     },
     "done": false
   },
@@ -7224,6 +7255,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-15 23:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-02-17 01:43:35 +0000"
     },
     "done": true
   },
