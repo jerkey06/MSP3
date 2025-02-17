@@ -4343,3 +4343,34 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [17Feb2025 01:08:04.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2574.500000, 116.500000, -3267.500000]
 [17Feb2025 01:08:15.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 600    [Carrot] to jkEmi_]
 [17Feb2025 01:11:36.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2777.500000, 138.500000, -3471.500000]
+[17Feb2025 01:14:05.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 01:14:05.242] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10849 Ticks
+[17Feb2025 01:15:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 10    [Mechanical Saw] to jkEmi_]
+[17Feb2025 01:15:43.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> el q es para minar en automatico?
+[17Feb2025 01:15:56.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> cual
+[17Feb2025 01:16:04.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> el taladro mecanico?
+[17Feb2025 01:16:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2246.500000, 72.500000, -3479.500000]
+[17Feb2025 01:16:23.200] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[17Feb2025 01:16:29.589] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[17Feb2025 01:16:48.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13347ms or 266 ticks behind
+[17Feb2025 01:17:01.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> se cayo el sv?
+[17Feb2025 01:17:03.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to 1152.500000, 118.500000, 1014.500000]
+[17Feb2025 01:17:05.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
+[17Feb2025 01:17:21.947] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[17Feb2025 01:17:21.947] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[17Feb2025 01:18:14.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2557.500000, 116.500000, -3271.500000]
+[17Feb2025 01:19:05.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2766.500000, 137.500000, -3479.500000]
+[17Feb2025 01:20:14.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2647.500000, 138.500000, -3367.500000]
+[17Feb2025 01:20:25.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2771.500000, 137.500000, -3477.500000]
+[17Feb2025 01:20:53.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ has made the advancement [A Little Less Ruffage]
+[17Feb2025 01:21:20.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2789.500000, 63.500000, -3664.500000]
+[17Feb2025 01:21:20.733] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/addons/oddities/block/be/PipeBlockEntity$ConnectionType
+[17Feb2025 01:21:20.778] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/StatueBlockTile$StatuePose
+[17Feb2025 01:21:20.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/GlobeBlockTile$GlobeModel
+[17Feb2025 01:21:29.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2771.500000, 137.500000, -3480.500000]
+[17Feb2025 01:22:36.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2827.500000, 98.500000, -3771.500000]
+[17Feb2025 01:22:45.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ has made the advancement [Fisherman's Lodge]
+[17Feb2025 01:22:46.435] [Worker-Main-143/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=-12, z=81}
+[17Feb2025 01:22:46.486] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-262, y=-12, z=83}
+[17Feb2025 01:22:49.659] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-261, y=-12, z=79}
+[17Feb2025 01:23:17.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
