@@ -2592,6 +2592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-17 00:59:01 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/hc/regions_unexplored/pine_corner_trim": {
     "criteria": {
       "has_planks": "2025-02-16 22:47:51 +0000"
@@ -3054,6 +3060,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/stuffed_mushroom": {
+    "criteria": {
+      "stuffed_mushroom": "2025-02-17 00:59:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/pine_fence_gate": {
     "criteria": {
       "has_pine_planks": "2025-02-16 22:47:51 +0000"
@@ -3069,6 +3081,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-16 00:33:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-17 00:59:01 +0000"
     },
     "done": true
   },
@@ -4081,6 +4099,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/brown_mushroom_to_block": {
+    "criteria": {
+      "Recipes": "2025-02-17 00:59:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skreecher": {
     "criteria": {
       "killed": "2025-02-16 18:49:47 +0000"
@@ -4866,6 +4890,12 @@
   "create:recipes/create.palettes/andesite_scaffolding_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-02-16 22:04:52 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/mushroom_burger": {
+    "criteria": {
+      "Recipes": "2025-02-17 00:59:01 +0000"
     },
     "done": true
   },
@@ -6242,6 +6272,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-02-17 00:59:01 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/omelette_mix_meat": {
     "criteria": {
       "Recipes": "2025-02-15 23:32:49 +0000"
@@ -6473,6 +6509,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-16 20:48:45 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/miners_delight/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-17 00:59:01 +0000"
     },
     "done": true
   },
@@ -6840,6 +6882,12 @@
   "design_decor:recipes/design_decor/scoria_castel_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-16 03:22:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-17 00:59:01 +0000"
     },
     "done": true
   },
