@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/cannon_welder": {
+    "criteria": {
+      "has_blaze_burner": "2025-02-17 02:47:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-16 01:21:53 +0000"
@@ -1287,6 +1293,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-15 23:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/createbigcannons/cannon_welder_mirrored": {
+    "criteria": {
+      "has_blaze_burner": "2025-02-17 02:47:10 +0000"
     },
     "done": true
   },
@@ -3282,6 +3294,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-02-17 02:49:50 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/granite_castel_tile_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-16 21:59:00 +0000"
@@ -3922,6 +3940,12 @@
   "createindustry:recipes/createindustry.building/nickel_bars_from_ingots_nickel_stonecutting": {
     "criteria": {
       "has_ingots_nickel": "2025-02-16 04:09:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-02-17 02:49:45 +0000"
     },
     "done": true
   },
@@ -5397,6 +5421,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/fluid_reservoir_from_fluid_tank_stonecutting": {
+    "criteria": {
+      "has_fluid_tank": "2025-02-17 02:49:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-02-15 23:39:41 +0000"
@@ -6248,6 +6278,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-02-17 02:47:10 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/copycats.main/stonecutting/copycat_half_layer": {
     "criteria": {
       "has_item": "2025-02-16 21:50:22 +0000"
@@ -6933,6 +6969,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-02-17 02:47:24 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/pestle_diorite": {
     "criteria": {
       "Recipes": "2025-02-15 23:39:41 +0000"
@@ -7537,6 +7579,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-02-17 02:16:10 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-02-17 02:49:50 +0000"
     },
     "done": true
   },
