@@ -4496,3 +4496,14 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [17Feb2025 02:33:06.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> es con palos
 [17Feb2025 02:34:09.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> este da comida
 [17Feb2025 02:34:20.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> voy por madera
+[17Feb2025 02:35:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 02:38:07.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2777.500000, 137.500000, -3473.500000]
+[17Feb2025 02:39:14.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2620.500000, 126.500000, -3291.500000]
+[17Feb2025 02:40:14.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 02:40:40.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2779.500000, 137.500000, -3472.500000]
+[17Feb2025 02:40:43.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 02:40:43.447] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11183 Ticks
+[17Feb2025 02:41:45.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> tienes lana?
+[17Feb2025 02:41:59.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> nop
+[17Feb2025 02:42:33.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2600.500000, 119.500000, -3291.500000]
+[17Feb2025 02:43:32.422] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/44121, l='ServerLevel[world]', x=-2579.11, y=118.00, z=-3299.50] died, message: 'Nitwit was slain by jkEmi_'

@@ -7198,6 +7198,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-17 02:40:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-15 23:33:16 +0000"

@@ -6537,6 +6537,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-02-17 02:35:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "pine_log": "2025-02-16 02:24:18 +0000",
