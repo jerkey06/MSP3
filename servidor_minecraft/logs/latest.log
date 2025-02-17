@@ -4449,3 +4449,34 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [17Feb2025 04:32:55.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2576.500000, 116.500000, -3331.500000]
 [17Feb2025 04:33:26.860] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
 [17Feb2025 04:34:58.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 04:36:00.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 04:36:00.608] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -5689 Ticks
+[17Feb2025 04:40:09.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 04:45:21.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 04:45:23.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 04:45:23.407] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11255 Ticks
+[17Feb2025 04:45:28.208] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlock$CartAssemblerAction
+[17Feb2025 04:46:16.712] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62e6aa39
+[17Feb2025 04:46:56.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2212.500000, 103.500000, -3162.500000]
+[17Feb2025 04:47:04.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2572.500000, 116.500000, -3328.500000]
+[17Feb2025 04:49:08.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> quieres ver mi nueva creacion?
+[17Feb2025 04:49:16.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> tp
+[17Feb2025 04:49:27.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported DrewMartz to jkEmi_]
+[17Feb2025 04:49:42.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ahh la mmda q limpia
+[17Feb2025 04:49:48.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ya la acabaste?
+[17Feb2025 04:50:34.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 04:50:42.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> xddd
+[17Feb2025 04:50:46.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> y lo d aca?w
+[17Feb2025 04:50:48.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> todavia falla pero ahi va
+[17Feb2025 04:50:57.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> god
+[17Feb2025 04:51:03.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> esque lo puse muy enfrente
+[17Feb2025 04:51:08.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> nomas q no se buge en lo rpimero
+[17Feb2025 04:51:14.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> y queda
+[17Feb2025 04:51:35.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> bueno me voy a meter a bañr
+[17Feb2025 04:51:39.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> ai la ves
+[17Feb2025 04:51:40.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> arre w
+[17Feb2025 04:51:42.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jkEmi_ lost connection: Disconnected
+[17Feb2025 04:51:42.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ left the game
+[17Feb2025 04:51:42.661] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 845e00ad-7010-3552-9246-f65ff195f3cd
+[17Feb2025 04:51:43.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> smn
+[17Feb2025 04:55:12.628] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44fd0f5d

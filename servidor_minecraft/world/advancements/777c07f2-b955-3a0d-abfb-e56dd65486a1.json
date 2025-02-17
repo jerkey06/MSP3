@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-02-17 04:30:29 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/spruce_spice_rack": {
     "criteria": {
       "spruce_spice_rack": "2025-02-16 00:59:10 +0000"
@@ -200,6 +206,12 @@
   "create_enchantment_industry:experienced_engineer": {
     "criteria": {
       "have_experience_nugget": "2025-02-16 00:15:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-02-17 04:30:29 +0000"
     },
     "done": true
   },
@@ -320,6 +332,12 @@
   "copycats:recipes/copycats.main/stonecutting/copycat_byte": {
     "criteria": {
       "has_item": "2025-02-16 21:50:22 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-02-17 04:30:29 +0000"
     },
     "done": true
   },
@@ -816,6 +834,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-02-17 04:30:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/speedometerfrom_conversion": {
     "criteria": {
       "has_item": "2025-02-17 03:38:28 +0000"
@@ -885,6 +909,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-16 00:58:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-02-17 04:30:29 +0000"
     },
     "done": true
   },
@@ -1146,6 +1176,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/nethersdelight/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-15 23:32:49 +0000"
@@ -1197,6 +1233,12 @@
   "design_decor:recipes/design_decor/granite_castel_tiles_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-16 21:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
     },
     "done": true
   },
@@ -1446,6 +1488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-15 23:37:51 +0000"
@@ -1584,6 +1632,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-02-17 04:30:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-16 00:58:29 +0000"
@@ -1713,6 +1767,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-02-16 23:11:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-02-17 04:30:29 +0000"
     },
     "done": true
   },
@@ -2095,6 +2155,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-02-17 04:30:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-02-15 23:32:49 +0000"
@@ -2122,6 +2188,12 @@
   "create:recipes/create.palettes/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-16 21:57:01 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/brass_knife": {
+    "criteria": {
+      "has_brass": "2025-02-17 04:30:29 +0000"
     },
     "done": true
   },
@@ -2176,6 +2248,12 @@
   "create:recipes/create.palettes/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-16 21:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
     },
     "done": true
   },
@@ -2466,6 +2544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-02-16 00:11:48 +0000"
@@ -2637,6 +2721,12 @@
   "everycomp:recipes/handcrafted.main/hc/regions_unexplored/maple_shelf": {
     "criteria": {
       "has_planks": "2025-02-16 03:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
     },
     "done": true
   },
@@ -3042,6 +3132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/c/regions_unexplored/maple_window": {
     "criteria": {
       "has_planks": "2025-02-16 03:46:01 +0000"
@@ -3366,6 +3462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-02-16 01:22:24 +0000"
@@ -3429,6 +3531,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/birch_chest": {
     "criteria": {
       "has_birch_plank": "2025-02-17 03:21:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-02-17 04:30:29 +0000"
     },
     "done": true
   },
@@ -3919,6 +4027,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-02-17 04:30:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-02-15 23:32:49 +0000"
@@ -4132,6 +4246,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-15 23:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
     },
     "done": true
   },
@@ -4616,6 +4736,12 @@
   "regions_unexplored:recipes/decorations/oak_sapling_from_oak_shrub": {
     "criteria": {
       "has_oak_shrub": "2025-02-16 01:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
     },
     "done": true
   },
@@ -5169,6 +5295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/ddr/regions_unexplored/pine_mosaic": {
     "criteria": {
       "has_planks": "2025-02-16 22:47:51 +0000"
@@ -5289,6 +5421,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/brass_frame_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-02-17 04:30:29 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/oak_knife_block": {
     "criteria": {
       "oak_knife_block": "2025-02-16 23:22:24 +0000"
@@ -5316,6 +5454,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-02-15 23:39:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-02-17 04:30:29 +0000"
     },
     "done": true
   },
@@ -5694,6 +5838,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-02-17 04:30:29 +0000"
+    },
+    "done": true
+  },
   "vintageimprovements:root": {
     "criteria": {
       "0": "2025-02-15 23:28:19 +0000"
@@ -5964,6 +6114,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/offset_spatula_gold": {
+    "criteria": {
+      "Recipes": "2025-02-17 04:46:18 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/interiors/crafting/floor_chair/orange_floor_chair_from_seat": {
     "criteria": {
       "has_seat": "2025-02-16 00:59:15 +0000"
@@ -6015,6 +6171,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/birch_barrel": {
     "criteria": {
       "has_birch_plank": "2025-02-17 03:21:19 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/golden_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
     },
     "done": true
   },
@@ -6189,6 +6351,12 @@
   "farmersrespite:recipes/farmersrespite/cooking/blazing_chili": {
     "criteria": {
       "has_any_ingredient": "2025-02-16 00:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
     },
     "done": true
   },
@@ -6477,6 +6645,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/gold_spoon": {
+    "criteria": {
+      "Recipes": "2025-02-17 04:46:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/brown_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-15 23:29:48 +0000"
@@ -6693,6 +6867,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-02-17 04:46:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/maple_fence_gate": {
     "criteria": {
       "has_maple_planks": "2025-02-16 03:46:01 +0000"
@@ -6768,6 +6948,12 @@
   "create:recipes/create.palettes/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-16 21:57:01 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/big_cartridge_sheet": {
+    "criteria": {
+      "has_brass_sheet": "2025-02-17 04:36:29 +0000"
     },
     "done": true
   },
@@ -7222,9 +7408,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/createbigcannons/big_cannon_sheet_inexpensive": {
+    "criteria": {
+      "has_inexpensive_big_cartridge_sheet": "2025-02-17 04:46:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2025-02-17 02:47:24 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/brass_truss_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-02-17 04:30:29 +0000"
     },
     "done": true
   },
@@ -7310,6 +7508,12 @@
   "farmersdelight:recipes/food/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-17 00:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
     },
     "done": true
   },
@@ -7439,6 +7643,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-02-17 04:30:29 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/small_large_half_shaft_cogwheel_to_large/large_half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2025-02-16 22:04:52 +0000"
@@ -7538,6 +7748,12 @@
   "interiors:recipes/interiors/crafting/floor_chair/pink_floor_chair": {
     "criteria": {
       "has_seat": "2025-02-16 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-02-17 04:30:29 +0000"
     },
     "done": true
   },
@@ -7758,6 +7974,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-15 23:35:08 +0000"
@@ -7797,6 +8019,12 @@
   "design_decor:recipes/design_decor/calcite_castel_tile_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-16 21:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 04:46:18 +0000"
     },
     "done": true
   },
