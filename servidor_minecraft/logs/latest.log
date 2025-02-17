@@ -4552,3 +4552,19 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [17Feb2025 03:02:05.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> nmms
 [17Feb2025 03:02:08.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> en que?
 [17Feb2025 03:02:20.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> en las casas y en el terreno
+[17Feb2025 03:06:25.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 03:06:43.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2779.500000, 137.500000, -3473.500000]
+[17Feb2025 03:07:12.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> sabes hacer energia hidraulica vrd
+[17Feb2025 03:07:22.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> o alguna fuente de energia?
+[17Feb2025 03:07:23.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> si pero ahorita no hace falta
+[17Feb2025 03:07:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> todavia ni llegamos
+[17Feb2025 03:07:51.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> q fuerza usas en la de madera pa q funcione?
+[17Feb2025 03:08:11.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> hidraulica
+[17Feb2025 03:08:19.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2569.500000, 116.500000, -3275.500000]
+[17Feb2025 03:08:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> como haces q funcione?
+[17Feb2025 03:08:39.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> con una rueda
+[17Feb2025 03:10:19.144] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11355 Ticks
+[17Feb2025 03:11:05.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/processing/burner/BlazeBurnerBlockEntity$FuelType
+[17Feb2025 03:11:33.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[17Feb2025 03:11:34.140] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[17Feb2025 03:12:24.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ has made the advancement [The Andesite Age]
