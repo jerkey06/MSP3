@@ -1074,15 +1074,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_dining_bench": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:51 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/copycats.main/stonecutting/copycat_shaft": {
     "criteria": {
       "has_item": "2025-02-16 21:50:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/regions_unexplored/pine_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:51 +0000"
     },
     "done": true
   },
@@ -1338,15 +1338,15 @@
     },
     "done": true
   },
-  "extendedgears:recipes/extendedgears/crafting/large_half_shaft_cogwheel": {
-    "criteria": {
-      "has_item": "2025-02-16 22:04:52 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-16 21:59:00 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/large_half_shaft_cogwheel": {
+    "criteria": {
+      "has_item": "2025-02-16 22:04:52 +0000"
     },
     "done": true
   },
@@ -2178,15 +2178,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2025-02-16 21:59:00 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-02-16 21:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-02-16 21:59:00 +0000"
     },
     "done": true
   },
@@ -3445,9 +3445,9 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/item_vault": {
+  "create:recipes/create.palettes/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
-      "has_item": "2025-02-16 23:18:02 +0000"
+      "has_stone_types_limestone": "2025-02-16 21:57:15 +0000"
     },
     "done": true
   },
@@ -3457,9 +3457,9 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+  "create:recipes/create.base/crafting/kinetics/item_vault": {
     "criteria": {
-      "has_stone_types_limestone": "2025-02-16 21:57:15 +0000"
+      "has_item": "2025-02-16 23:18:02 +0000"
     },
     "done": true
   },
@@ -3913,15 +3913,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/fluid_tank": {
-    "criteria": {
-      "has_item": "2025-02-16 23:18:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-16 21:59:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-02-16 23:18:02 +0000"
     },
     "done": true
   },
@@ -3937,15 +3937,15 @@
     },
     "done": true
   },
-  "extradelight:recipes/extradelight.aesthetic/oak_dried_corn_fence": {
-    "criteria": {
-      "oak_dried_corn_fence": "2025-02-16 23:22:35 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/copycats.main/stonecutting/copycat_light_weighted_pressure_plate": {
     "criteria": {
       "has_item": "2025-02-16 21:50:22 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_dried_corn_fence": {
+    "criteria": {
+      "oak_dried_corn_fence": "2025-02-16 23:22:35 +0000"
     },
     "done": true
   },
@@ -5307,15 +5307,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/ru_main/pine_button": {
-    "criteria": {
-      "has_pine_planks": "2025-02-16 22:47:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-02-16 22:18:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 22:47:51 +0000"
     },
     "done": true
   },
@@ -5519,15 +5519,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2025-02-16 23:59:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-16 21:57:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-02-16 23:59:15 +0000"
     },
     "done": true
   },
@@ -6476,15 +6476,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/everycomp/fd/regions_unexplored/pine_cabinet": {
-    "criteria": {
-      "has_planks": "2025-02-16 22:47:51 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/copycats.main/stonecutting/copycat_ladder": {
     "criteria": {
       "has_item": "2025-02-16 21:50:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/fd/regions_unexplored/pine_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-16 22:47:51 +0000"
     },
     "done": true
   },
@@ -6909,15 +6909,15 @@
     },
     "done": true
   },
-  "design_decor:recipes/design_decor/granite_castel_brick_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-02-16 21:59:00 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/copycats.main/stonecutting/copycat_fence": {
     "criteria": {
       "has_item": "2025-02-16 21:50:22 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/granite_castel_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-16 21:59:00 +0000"
     },
     "done": true
   },
@@ -7221,15 +7221,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-02-16 22:18:13 +0000"
-    },
-    "done": true
-  },
   "design_decor:recipes/design_decor/granite_castel_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-16 21:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-16 22:18:13 +0000"
     },
     "done": true
   },
@@ -7299,18 +7299,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-02-16 22:18:13 +0000"
-    },
-    "done": true
-  },
-  "create_dd:recipes/create_dd.palettes/cut_stone_bricks_from_stone_types_stone_stonecutting": {
-    "criteria": {
-      "has_stone_types_stone": "2025-02-16 22:18:13 +0000"
-    },
-    "done": true
-  },
   "design_decor:recipes/design_decor/limestone_castel_tile_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-16 21:57:15 +0000"
@@ -7320,6 +7308,18 @@
   "create:recipes/create.base/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2025-02-16 22:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-02-16 22:18:13 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_bricks_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-16 22:18:13 +0000"
     },
     "done": true
   },
