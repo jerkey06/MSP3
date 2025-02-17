@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-17 01:25:11 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/crimson_step_stool": {
     "criteria": {
       "crimson_step_stool": "2025-02-15 23:28:14 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-02-17 01:28:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 23:41:47 +0000"
@@ -176,6 +188,12 @@
   "extradelight:recipes/misc/mortar/bone_meal": {
     "criteria": {
       "Recipes": "2025-02-16 05:16:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2025-02-17 01:20:53 +0000"
     },
     "done": true
   },
@@ -254,6 +272,12 @@
   "regions_unexplored:recipes/ru_main/magnolia_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 22:51:42 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/lasagna_pasta": {
+    "criteria": {
+      "has_dough": "2025-02-17 01:21:47 +0000"
     },
     "done": true
   },
@@ -380,6 +404,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-02-17 01:21:03 +0000"
     },
     "done": true
   },
@@ -696,6 +726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_lime_dye": "2025-02-17 01:30:43 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/copycats.main/crafting/copycat_cogwheel": {
     "criteria": {
       "has_item": "2025-02-16 22:36:40 +0000"
@@ -753,6 +789,12 @@
   "create:recipes/create.palettes/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-15 23:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-17 01:30:26 +0000"
     },
     "done": true
   },
@@ -825,6 +867,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
     "criteria": {
       "has_item": "2025-02-17 00:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-02-17 01:21:03 +0000"
     },
     "done": true
   },
@@ -915,6 +963,18 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-02-16 19:56:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/food/smelting/bread": {
+    "criteria": {
+      "has_item": "2025-02-17 01:21:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/food/smoking/bread": {
+    "criteria": {
+      "has_item": "2025-02-17 01:21:47 +0000"
     },
     "done": true
   },
@@ -1260,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-17 01:30:57 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-02-15 23:26:29 +0000"
@@ -1317,6 +1383,12 @@
   "regions_unexplored:recipes/ru_main/maple_sign": {
     "criteria": {
       "has_maple_planks": "2025-02-16 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/food/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2025-02-17 01:21:47 +0000"
     },
     "done": true
   },
@@ -1431,6 +1503,12 @@
   "create:recipes/create.palettes/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-16 20:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-17 01:30:26 +0000"
     },
     "done": true
   },
@@ -1665,6 +1743,12 @@
   "everycomp:recipes/everycomp/c/regions_unexplored/pine_window_pane": {
     "criteria": {
       "has_planks": "2025-02-16 22:24:50 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/misc/lgray_tulip": {
+    "criteria": {
+      "Recipes": "2025-02-17 01:28:43 +0000"
     },
     "done": true
   },
@@ -1908,6 +1992,7 @@
       "mauve_hills": "2025-02-16 00:03:55 +0000",
       "shrubland": "2025-02-15 23:53:09 +0000",
       "pine_taiga": "2025-02-16 00:21:27 +0000",
+      "autumnal_maple_forest": "2025-02-17 01:30:15 +0000",
       "barley_fields": "2025-02-15 23:32:51 +0000",
       "grassy_beach": "2025-02-16 21:59:07 +0000",
       "blackwood_taiga": "2025-02-16 00:20:42 +0000",
@@ -2023,6 +2108,12 @@
   "design_decor:recipes/design_decor/andesite_castel_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-15 23:37:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-02-17 01:33:02 +0000"
     },
     "done": true
   },
@@ -2173,6 +2264,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 23:39:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-02-17 01:33:02 +0000"
     },
     "done": true
   },
@@ -2566,6 +2663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_green_dye": "2025-02-17 01:21:03 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_stone_brick_wall_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-02-16 20:20:51 +0000"
@@ -2584,6 +2687,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/green_blueprint_block_from_green_dye": {
+    "criteria": {
+      "has_dyed_item": "2025-02-17 01:21:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-16 00:05:43 +0000"
@@ -2593,6 +2702,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-02-16 19:56:50 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/macaroni_pasta": {
+    "criteria": {
+      "has_dough": "2025-02-17 01:21:47 +0000"
     },
     "done": true
   },
@@ -2986,6 +3101,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/misc/rose_red": {
+    "criteria": {
+      "Recipes": "2025-02-17 01:22:27 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/omelette_mix_veg": {
     "criteria": {
       "Recipes": "2025-02-16 19:14:11 +0000"
@@ -3317,6 +3438,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "pie_crust": "2025-02-17 01:20:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-16 20:13:57 +0000"
@@ -3326,6 +3453,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-02-15 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-02-17 01:28:49 +0000"
     },
     "done": true
   },
@@ -3374,6 +3507,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-02-15 23:38:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-02-17 01:30:57 +0000"
     },
     "done": true
   },
@@ -3488,6 +3627,18 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-16 18:52:47 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-02-17 01:37:39 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-02-17 01:33:00 +0000"
     },
     "done": true
   },
@@ -3617,6 +3768,24 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2025-02-17 01:25:27 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/dough_shaping": {
+    "criteria": {
+      "Recipes": "2025-02-17 01:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-02-17 01:30:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-02-16 00:10:34 +0000"
@@ -3686,6 +3855,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-02-15 23:33:48 +0000"
+    },
+    "done": true
+  },
+  "extradelight:flour": {
+    "criteria": {
+      "flour": "2025-02-17 01:20:53 +0000"
     },
     "done": true
   },
@@ -3772,6 +3947,7 @@
       "mauve_hills": "2025-02-16 00:03:55 +0000",
       "shrubland": "2025-02-15 23:53:09 +0000",
       "pine_taiga": "2025-02-16 00:21:27 +0000",
+      "autumnal_maple_forest": "2025-02-17 01:30:15 +0000",
       "barley_fields": "2025-02-15 23:32:51 +0000",
       "grassy_beach": "2025-02-16 21:59:07 +0000",
       "blackwood_taiga": "2025-02-16 00:20:42 +0000",
@@ -3797,6 +3973,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-02-16 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-02-17 01:35:27 +0000"
     },
     "done": true
   },
@@ -3878,6 +4060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-17 01:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 22:51:42 +0000"
@@ -3899,6 +4087,12 @@
   "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-02-15 23:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-02-17 01:30:26 +0000"
     },
     "done": true
   },
@@ -4159,6 +4353,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/white_blueprint_block": {
+    "criteria": {
+      "has_dyed_item": "2025-02-17 01:30:26 +0000"
+    },
+    "done": true
+  },
   "extradelight:ingredients": {
     "criteria": {
       "BREAD_SLICE": "2025-02-16 23:55:31 +0000"
@@ -4180,6 +4380,12 @@
   "regions_unexplored:recipes/ru_main/light_gray_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-15 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2025-02-17 01:30:20 +0000"
     },
     "done": true
   },
@@ -4291,6 +4497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_gray_dye": "2025-02-17 01:28:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-16 02:07:01 +0000"
@@ -4336,6 +4548,12 @@
   "everycomp:recipes/everycomp/c/regions_unexplored/maple_window_pane": {
     "criteria": {
       "has_planks": "2025-02-16 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-17 01:30:26 +0000"
     },
     "done": true
   },
@@ -4390,6 +4608,12 @@
   "create:recipes/create.palettes/andesite_scaffolding_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-02-16 20:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-17 01:30:57 +0000"
     },
     "done": true
   },
@@ -4699,6 +4923,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/green_blueprint_block": {
+    "criteria": {
+      "has_dyed_item": "2025-02-17 01:21:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-02-15 23:39:56 +0000"
@@ -4744,6 +4974,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-02-15 23:37:18 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-02-17 01:20:48 +0000"
     },
     "done": true
   },
@@ -4801,6 +5037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-17 01:30:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-15 23:56:14 +0000",
@@ -4808,6 +5050,7 @@
       "minecraft:birch_forest": "2025-02-16 00:59:54 +0000",
       "minecraft:bamboo_jungle": "2025-02-16 00:19:22 +0000",
       "minecraft:badlands": "2025-02-16 18:31:23 +0000",
+      "minecraft:savanna_plateau": "2025-02-17 01:22:37 +0000",
       "minecraft:beach": "2025-02-16 21:59:38 +0000",
       "minecraft:stony_peaks": "2025-02-16 00:44:28 +0000",
       "minecraft:sparse_jungle": "2025-02-16 00:17:38 +0000",
@@ -5120,6 +5363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-17 01:30:26 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/food/cooked_tropical_fish_from_campfire_cooking": {
     "criteria": {
       "cooked_tropical_fish": "2025-02-15 23:36:50 +0000"
@@ -5285,6 +5534,12 @@
   "createbigcannons:recipes/createbigcannons/shot_balls": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 23:39:56 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/light_gray_blueprint_block_from_light_gray_dye": {
+    "criteria": {
+      "has_dyed_item": "2025-02-17 01:28:49 +0000"
     },
     "done": true
   },
@@ -5558,6 +5813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-17 01:30:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-16 23:15:03 +0000"
@@ -5615,6 +5876,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 22:51:42 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/white_blueprint_block_from_white_dye": {
+    "criteria": {
+      "has_dyed_item": "2025-02-17 01:30:26 +0000"
     },
     "done": true
   },
@@ -5747,6 +6014,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-15 23:33:48 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/lime_blueprint_block_from_lime_dye": {
+    "criteria": {
+      "has_dyed_item": "2025-02-17 01:30:43 +0000"
     },
     "done": true
   },
@@ -5978,6 +6251,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-02-17 01:33:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-02-16 00:56:00 +0000"
@@ -6039,6 +6318,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/lime_blueprint_block": {
+    "criteria": {
+      "has_dyed_item": "2025-02-17 01:30:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_trophy": "2025-02-16 20:20:51 +0000"
@@ -6094,6 +6379,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/misc/lilac_magenta": {
+    "criteria": {
+      "Recipes": "2025-02-17 01:25:10 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/building_blocks/stone_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-02-16 20:20:51 +0000"
@@ -6127,6 +6418,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-15 23:33:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-02-17 01:33:02 +0000"
     },
     "done": true
   },
@@ -6196,6 +6493,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-02-17 01:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-17 01:30:57 +0000"
+    },
+    "done": true
+  },
   "decoration_delight:decoration_101_advancement": {
     "criteria": {
       "decoration_101_advancement": "2025-02-15 23:26:28 +0000"
@@ -6217,6 +6526,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-16 18:55:25 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/crafting/decor/light_gray_blueprint_block": {
+    "criteria": {
+      "has_dyed_item": "2025-02-17 01:28:49 +0000"
     },
     "done": true
   },
@@ -6334,6 +6649,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2025-02-17 01:21:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/maple_door": {
     "criteria": {
       "has_maple_planks": "2025-02-16 05:11:52 +0000"
@@ -6412,9 +6733,21 @@
     },
     "done": true
   },
+  "create:recipes/food/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-02-17 01:21:47 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/granite_castel_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-15 23:36:22 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/farmersdelight/raw_pasta": {
+    "criteria": {
+      "has_dough": "2025-02-17 01:21:47 +0000"
     },
     "done": true
   },
@@ -6517,6 +6850,12 @@
   "design_decor:recipes/design_decor/calcite_castel_tile_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-16 20:13:58 +0000"
+    },
+    "done": true
+  },
+  "idas:fishermans_lodge": {
+    "criteria": {
+      "in_fishermans_lodge": "2025-02-17 01:22:45 +0000"
     },
     "done": true
   },

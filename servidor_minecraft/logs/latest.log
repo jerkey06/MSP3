@@ -4374,3 +4374,48 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [17Feb2025 01:22:46.486] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-262, y=-12, z=83}
 [17Feb2025 01:22:49.659] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-261, y=-12, z=79}
 [17Feb2025 01:23:17.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[17Feb2025 01:23:45.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 01:23:45.546] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11292 Ticks
+[17Feb2025 01:24:40.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2768.500000, 137.500000, -3480.500000]
+[17Feb2025 01:24:46.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2874.500000, 139.500000, -3765.500000]
+[17Feb2025 01:25:23.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2127.500000, 99.500000, -3553.500000]
+[17Feb2025 01:25:25.538] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[17Feb2025 01:25:32.399] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-262, y=-12, z=83}
+[17Feb2025 01:25:32.409] [Worker-Main-143/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=-12, z=81}
+[17Feb2025 01:25:34.403] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-261, y=-12, z=79}
+[17Feb2025 01:25:42.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2040.500000, 122.500000, -3370.500000]
+[17Feb2025 01:26:09.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -1879.500000, 98.500000, -3395.500000]
+[17Feb2025 01:26:35.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2767.500000, 137.500000, -3476.500000]
+[17Feb2025 01:28:35.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2405.500000, 80.500000, -2070.500000]
+[17Feb2025 01:30:15.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -1837.500000, 116.500000, -3278.500000]
+[17Feb2025 01:30:22.001] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-261, y=-12, z=79}
+[17Feb2025 01:30:23.701] [Worker-Main-142/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=-12, z=81}
+[17Feb2025 01:30:23.870] [Worker-Main-143/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-262, y=-12, z=83}
+[17Feb2025 01:30:31.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2771.500000, 137.500000, -3480.500000]
+[17Feb2025 01:32:42.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[17Feb2025 01:32:50.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 01:32:50.540] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10899 Ticks
+[17Feb2025 01:33:00.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ has made the advancement [Bonk!]
+[17Feb2025 01:35:00.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2569.500000, 116.500000, -3318.500000]
+[17Feb2025 01:35:20.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2771.500000, 137.500000, -3476.500000]
+[17Feb2025 01:39:55.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> la granja ya esta lista
+[17Feb2025 01:40:00.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> ven a el aplanado
+[17Feb2025 01:40:01.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> cual?
+[17Feb2025 01:40:12.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> tpame w
+[17Feb2025 01:40:27.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported DrewMartz to jkEmi_]
+[17Feb2025 01:40:41.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> Nahhh q god
+[17Feb2025 01:40:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> es la d arboles?
+[17Feb2025 01:41:02.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> es semiautomatica
+[17Feb2025 01:41:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> mira el cofre
+[17Feb2025 01:41:32.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> nicee
+[17Feb2025 01:41:57.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[17Feb2025 01:41:57.839] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10945 Ticks
+[17Feb2025 01:42:00.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> yo ya mero acabo mi jaus
+[17Feb2025 01:42:03.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> dios
+[17Feb2025 01:42:11.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> y la d zanahorias?
+[17Feb2025 01:42:25.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> nmms
+[17Feb2025 01:42:31.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> nomas da clic derecho
+[17Feb2025 01:42:32.549] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[17Feb2025 01:43:04.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ahh
+[17Feb2025 01:43:05.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> lkashjñlksajdas
+[17Feb2025 01:43:12.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> nicee
