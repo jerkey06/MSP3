@@ -4063,6 +4063,12 @@
     },
     "done": true
   },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-02-17 04:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-02-15 23:29:48 +0000"
