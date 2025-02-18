@@ -185,15 +185,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-02-17 04:25:34 +0000"
-    },
-    "done": true
-  },
   "extradelight:recipes/extradelight.aesthetic/cinnamon_molded_orange_wallpaper": {
     "criteria": {
       "orange_cinnamon_wallpaper": "2025-02-17 04:08:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 04:25:34 +0000"
     },
     "done": true
   },
@@ -467,15 +467,15 @@
     },
     "done": true
   },
-  "interiors:recipes/interiors/crafting/floor_chair/purple_floor_chair_from_seat": {
-    "criteria": {
-      "has_seat": "2025-02-17 04:25:34 +0000"
-    },
-    "done": true
-  },
   "extradelight:recipes/extradelight.aesthetic/wallpaper_purple": {
     "criteria": {
       "purple_wallpaper": "2025-02-17 04:08:38 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/interiors/crafting/floor_chair/purple_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 04:25:34 +0000"
     },
     "done": true
   },
@@ -948,6 +948,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-17 04:06:57 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/mangrove_molded_lime_wallpaper": {
     "criteria": {
       "lime_mangrove_wallpaper": "2025-02-17 04:08:38 +0000"
@@ -957,12 +963,6 @@
   "extradelight:recipes/extradelight.aesthetic/jungle_molded_light_blue_wallpaper": {
     "criteria": {
       "light_blue_jungle_wallpaper": "2025-02-17 04:08:38 +0000"
-    },
-    "done": true
-  },
-  "create_dd:recipes/create_dd.palettes/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-02-17 04:06:57 +0000"
     },
     "done": true
   },
@@ -1866,15 +1866,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_polished_rose_quartz": "2025-02-17 04:10:22 +0000"
-    },
-    "done": true
-  },
   "extradelight:recipes/extradelight.aesthetic/warped_molded_gray_wallpaper": {
     "criteria": {
       "gray_warped_wallpaper": "2025-02-17 04:08:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-02-17 04:10:22 +0000"
     },
     "done": true
   },
@@ -2202,15 +2202,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/crafting/kinetics/pink_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-02-17 04:25:34 +0000"
-    },
-    "done": true
-  },
   "extradelight:recipes/extradelight.aesthetic/birch_molded_pink_wallpaper": {
     "criteria": {
       "pink_birch_wallpaper": "2025-02-17 04:08:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 04:25:34 +0000"
     },
     "done": true
   },
@@ -2982,15 +2982,15 @@
     },
     "done": true
   },
-  "extradelight:recipes/extradelight.aesthetic/crimson_molded_black_wallpaper": {
-    "criteria": {
-      "black_crimson_wallpaper": "2025-02-17 04:08:38 +0000"
-    },
-    "done": true
-  },
   "create_dd:recipes/create_dd.palettes/cut_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-17 04:06:57 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_black_wallpaper": {
+    "criteria": {
+      "black_crimson_wallpaper": "2025-02-17 04:08:38 +0000"
     },
     "done": true
   },
@@ -3246,15 +3246,15 @@
     },
     "done": true
   },
-  "interiors:recipes/interiors/crafting/floor_chair/purple_floor_chair": {
-    "criteria": {
-      "has_seat": "2025-02-17 04:25:34 +0000"
-    },
-    "done": true
-  },
   "extradelight:recipes/extradelight.aesthetic/wallpaper_green": {
     "criteria": {
       "green_wallpaper": "2025-02-17 04:08:38 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/interiors/crafting/floor_chair/purple_floor_chair": {
+    "criteria": {
+      "has_seat": "2025-02-17 04:25:34 +0000"
     },
     "done": true
   },
@@ -6999,15 +6999,15 @@
     },
     "done": true
   },
-  "interiors:recipes/interiors/crafting/floor_chair/orange_floor_chair_from_seat": {
-    "criteria": {
-      "has_seat": "2025-02-17 04:25:34 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-02-17 03:40:16 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/interiors/crafting/floor_chair/orange_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 04:25:34 +0000"
     },
     "done": true
   },
