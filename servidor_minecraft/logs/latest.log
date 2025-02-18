@@ -4440,3 +4440,45 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [18Feb2025 21:34:20.105] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
 [18Feb2025 21:34:56.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
 [18Feb2025 21:34:56.993] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10510 Ticks
+[18Feb2025 21:36:57.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2792.500000, 63.500000, -3655.500000]
+[18Feb2025 21:36:57.824] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/FluidTransportBehaviour$UpdatePhase
+[18Feb2025 21:36:57.835] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/addons/oddities/block/be/PipeBlockEntity$ConnectionType
+[18Feb2025 21:36:57.911] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/StatueBlockTile$StatuePose
+[18Feb2025 21:37:01.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2781.500000, 136.500000, -3496.500000]
+[18Feb2025 21:40:42.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Feb2025 21:40:42.692] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping train listener...
+[18Feb2025 21:40:42.692] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping Advanced Display Data Manager...
+[18Feb2025 21:40:42.693] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All events have been closed.
+[18Feb2025 21:40:42.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Feb2025 21:40:42.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Feb2025 21:40:42.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrewMartz lost connection: Server closed
+[18Feb2025 21:40:42.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrewMartz left the game
+[18Feb2025 21:40:42.740] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 777c07f2-b955-3a0d-abfb-e56dd65486a1
+[18Feb2025 21:40:42.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Feb2025 21:40:42.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Feb2025 21:40:42.948] [Advanced Display Data Manager/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Advanced Display Data Manager has been stopped.
+[18Feb2025 21:40:43.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:mars_orbit
+[18Feb2025 21:40:43.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:the_moon
+[18Feb2025 21:40:43.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/createteleporters:pocket_dimension
+[18Feb2025 21:40:43.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Feb2025 21:40:43.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:moon_orbit
+[18Feb2025 21:40:43.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Feb2025 21:40:43.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:mars
+[18Feb2025 21:40:43.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/extradelight:corn_dimension
+[18Feb2025 21:40:43.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:earth_orbit
+[18Feb2025 21:40:43.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:venus
+[18Feb2025 21:40:43.060] [CRN Train Listener/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Train listener has been stopped.
+[18Feb2025 21:40:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Feb2025 21:40:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[18Feb2025 21:40:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_moon): All chunks are saved
+[18Feb2025 21:40:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[18Feb2025 21:40:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Feb2025 21:40:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[18Feb2025 21:40:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Feb2025 21:40:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[18Feb2025 21:40:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (corn_dimension): All chunks are saved
+[18Feb2025 21:40:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[18Feb2025 21:40:43.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[18Feb2025 21:40:43.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Feb2025 21:40:43.194] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[18Feb2025 21:40:43.194] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
