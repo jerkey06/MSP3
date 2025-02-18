@@ -1700,7 +1700,8 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "prismachasm": "2025-02-18 02:04:11 +0000",
-      "scorching_caves": "2025-02-18 00:58:27 +0000"
+      "scorching_caves": "2025-02-18 00:58:27 +0000",
+      "bioshroom_caves": "2025-02-18 02:33:13 +0000"
     },
     "done": false
   },
@@ -2205,7 +2206,8 @@
       "ochard": "2025-02-16 18:43:00 +0000",
       "deciduous_forest": "2025-02-18 01:11:24 +0000",
       "blackstone_basin": "2025-02-18 01:38:09 +0000",
-      "temperate_grove": "2025-02-16 18:44:14 +0000"
+      "temperate_grove": "2025-02-16 18:44:14 +0000",
+      "bioshroom_caves": "2025-02-18 02:33:13 +0000"
     },
     "done": false
   },
