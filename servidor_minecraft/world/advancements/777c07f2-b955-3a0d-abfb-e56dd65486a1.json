@@ -4595,6 +4595,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-02-18 20:59:27 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-16 21:57:16 +0000"

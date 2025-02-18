@@ -4414,3 +4414,7 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [18Feb2025 20:48:48.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
 [18Feb2025 20:48:48.494] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11924 Ticks
 [18Feb2025 20:50:10.051] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-2217, 104, -3129] in minecraft:overworld
+[18Feb2025 20:57:30.171] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[18Feb2025 20:58:01.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[18Feb2025 20:58:01.748] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11064 Ticks
+[18Feb2025 21:00:46.402] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
