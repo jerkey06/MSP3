@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-18 02:52:00 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/mixing_bowl": {
     "criteria": {
       "Recipes": "2025-02-16 18:46:44 +0000"
@@ -302,6 +308,12 @@
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-02-18 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/cannon_welder": {
+    "criteria": {
+      "has_blaze_burner": "2025-02-18 03:01:39 +0000"
     },
     "done": true
   },
@@ -459,6 +471,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-02-18 01:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-18 02:45:28 +0000"
     },
     "done": true
   },
@@ -1169,6 +1187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-18 02:45:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-18 02:24:36 +0000"
@@ -1424,6 +1448,12 @@
   "regions_unexplored:recipes/ru_main/pine_wood": {
     "criteria": {
       "has_log": "2025-02-16 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/createbigcannons/cannon_welder_mirrored": {
+    "criteria": {
+      "has_blaze_burner": "2025-02-18 03:01:39 +0000"
     },
     "done": true
   },
@@ -2381,6 +2411,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-02-18 03:01:39 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 19:36:57 +0000"
@@ -2813,6 +2849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-18 02:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-02-18 01:00:31 +0000"
@@ -2870,6 +2912,12 @@
   "extradelight:recipes/extradelight.items/omelette_mix_meat_cheese": {
     "criteria": {
       "Recipes": "2025-02-16 19:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-18 03:00:29 +0000"
     },
     "done": true
   },
@@ -3622,6 +3670,12 @@
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2025-02-16 19:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-18 02:52:00 +0000"
     },
     "done": true
   },
