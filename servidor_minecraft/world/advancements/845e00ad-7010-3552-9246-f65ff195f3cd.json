@@ -6713,6 +6713,7 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "fish_stew": "2025-02-17 01:51:56 +0000",
+      "roast_chicken": "2025-02-18 01:59:09 +0000",
       "fried_rice": "2025-02-15 23:36:01 +0000"
     },
     "done": false
@@ -7045,6 +7046,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-16 19:56:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-02-18 01:59:09 +0000"
     },
     "done": true
   },
@@ -8824,6 +8831,12 @@
   "extradelight:recipes/extradelight.aesthetic/acacia_molded_pink_wallpaper": {
     "criteria": {
       "pink_acacia_wallpaper": "2025-02-17 04:08:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-02-18 01:43:58 +0000"
     },
     "done": true
   },

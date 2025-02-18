@@ -59,9 +59,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/metal_plate_slab_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-02-16 18:58:57 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/layered_stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/stone_pillar_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -104,6 +122,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -179,6 +203,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-18 01:47:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/blackwood_boat": {
     "criteria": {
       "in_water": "2025-02-16 18:55:04 +0000"
@@ -203,6 +245,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-18 01:45:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/baobab_boat": {
     "criteria": {
       "in_water": "2025-02-16 18:55:04 +0000"
@@ -224,6 +278,12 @@
   "regions_unexplored:recipes/ru_main/larch_boat": {
     "criteria": {
       "in_water": "2025-02-16 18:55:04 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/pestle_stone": {
+    "criteria": {
+      "Recipes": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -313,7 +373,9 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-02-18 02:02:14 +0000",
       "pine_taiga": "2025-02-16 18:50:56 +0000",
+      "autumnal_maple_forest": "2025-02-18 02:00:00 +0000",
       "grassy_beach": "2025-02-16 19:26:34 +0000",
       "ochard": "2025-02-16 18:43:00 +0000",
       "deciduous_forest": "2025-02-18 01:11:24 +0000",
@@ -345,6 +407,12 @@
     },
     "done": true
   },
+  "create_bic_bit:lawn_defender": {
+    "criteria": {
+      "harvested_sunflower": "2025-02-18 01:47:07 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/metal_plate_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-02-16 18:58:57 +0000"
@@ -360,6 +428,12 @@
   "everycomp:recipes/handcrafted.main/hc/regions_unexplored/pine_counter": {
     "criteria": {
       "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -429,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-02-18 01:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-02-16 19:26:41 +0000"
@@ -438,6 +518,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-02-18 01:00:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -477,6 +563,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/small_stone_brick_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/black_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-16 18:46:44 +0000"
@@ -486,6 +578,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-16 19:09:59 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_stone_bricks_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -561,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2025-02-16 18:46:20 +0000"
@@ -593,6 +697,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-18 02:06:13 +0000",
+      "minecraft:spider": "2025-02-18 02:06:44 +0000",
       "minecraft:enderman": "2025-02-18 01:06:10 +0000",
       "minecraft:zombie": "2025-02-16 18:58:01 +0000"
     },
@@ -730,6 +836,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/mortar_stone": {
+    "criteria": {
+      "Recipes": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/pine_pressure_plate": {
     "criteria": {
       "has_pine_planks": "2025-02-16 19:56:34 +0000"
@@ -821,6 +933,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/polished_cut_stone_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/maple_boat": {
     "criteria": {
       "in_water": "2025-02-16 18:55:04 +0000"
@@ -851,9 +969,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/large_prismarite_cluster": {
+    "criteria": {
+      "has_prismarite": "2025-02-18 02:04:14 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/metal_sheet_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-02-16 18:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-18 02:06:09 +0000"
     },
     "done": true
   },
@@ -866,6 +996,12 @@
   "nethersdelight:recipes/nethersdelight/golden_machete": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/viridescent_nylium": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -935,6 +1071,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/small_stone_brick_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-16 18:58:57 +0000"
@@ -977,6 +1119,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/hanging_prismarite": {
+    "criteria": {
+      "has_prismarite": "2025-02-18 02:04:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/handcrafted.main/hc/regions_unexplored/pine_shelf": {
     "criteria": {
       "has_planks": "2025-02-16 19:56:34 +0000"
@@ -1004,6 +1152,18 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/mossy_stone": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -1097,6 +1257,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/polished_cut_stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 01:39:40 +0000"
@@ -1151,16 +1317,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-02-18 01:37:29 +0000",
       "minecraft:birch_forest": "2025-02-16 18:50:58 +0000",
       "minecraft:stony_peaks": "2025-02-18 01:11:57 +0000",
+      "minecraft:dark_forest": "2025-02-18 02:07:23 +0000",
+      "minecraft:river": "2025-02-18 01:49:03 +0000",
       "minecraft:stony_shore": "2025-02-16 19:37:23 +0000",
+      "minecraft:dripstone_caves": "2025-02-18 02:04:05 +0000",
       "minecraft:forest": "2025-02-16 18:50:48 +0000",
+      "minecraft:lush_caves": "2025-02-18 02:07:18 +0000",
+      "minecraft:flower_forest": "2025-02-18 01:57:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 19:37:02 +0000",
       "minecraft:deep_dark": "2025-02-18 01:11:28 +0000",
-      "minecraft:meadow": "2025-02-18 00:54:12 +0000"
+      "minecraft:meadow": "2025-02-18 00:54:12 +0000",
+      "minecraft:plains": "2025-02-18 01:47:32 +0000"
     },
     "done": false
   },
@@ -1242,6 +1420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/sweet_berry_cheesecake": {
     "criteria": {
       "sweet_berry": "2025-02-16 18:51:02 +0000"
@@ -1274,6 +1458,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "prismachasm": "2025-02-18 02:04:11 +0000",
       "scorching_caves": "2025-02-18 00:58:27 +0000"
     },
     "done": false
@@ -1416,6 +1601,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_trophy": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/birch_barrel": {
     "criteria": {
       "has_birch_plank": "2025-02-16 18:46:44 +0000"
@@ -1524,6 +1715,18 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/polished_cut_stone_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-16 18:46:44 +0000"
@@ -1566,9 +1769,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-02-16 18:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -1691,8 +1906,11 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-02-18 02:02:14 +0000",
       "redstone_abyss": "2025-02-18 01:38:14 +0000",
       "pine_taiga": "2025-02-16 18:50:56 +0000",
+      "autumnal_maple_forest": "2025-02-18 02:00:00 +0000",
+      "prismachasm": "2025-02-18 02:04:11 +0000",
       "grassy_beach": "2025-02-16 19:26:34 +0000",
       "scorching_caves": "2025-02-18 00:58:27 +0000",
       "ochard": "2025-02-16 18:43:00 +0000",
@@ -1759,6 +1977,12 @@
   "extradelight:recipes/extradelight.items/gold_spoon": {
     "criteria": {
       "Recipes": "2025-02-18 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_trophy": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -1996,6 +2220,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/prismoss": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-02-16 18:55:04 +0000"
@@ -2092,6 +2322,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_trophy": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_iron_ingot": "2025-02-16 18:58:57 +0000"
@@ -2149,6 +2385,12 @@
   "create:recipes/create.palettes/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-02-18 01:07:04 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -2242,6 +2484,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_stone_brick_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 19:36:57 +0000"
@@ -2278,9 +2526,21 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_stone_brick_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/grater": {
     "criteria": {
       "Recipes": "2025-02-16 18:58:57 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_stone_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -2293,6 +2553,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_trophy": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -2351,6 +2617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/diamond_shield": {
     "criteria": {
       "has_diamond": "2025-02-18 01:00:31 +0000"
@@ -2369,9 +2641,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_trophy": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-02-16 19:33:37 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -2393,6 +2677,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/building_blocks/stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
       "has_acorn": "2025-02-18 00:54:32 +0000"
@@ -2402,6 +2692,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-16 19:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -2474,6 +2770,12 @@
   "everycomp:recipes/everycomp/db/regions_unexplored/pine_palisade": {
     "criteria": {
       "has_planks": "2025-02-16 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_brick_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -2609,6 +2911,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_trophy": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-02-16 18:46:20 +0000"
@@ -2718,6 +3026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-18 01:45:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-02-18 01:00:31 +0000"
@@ -2730,6 +3044,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/small_stone_brick_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-16 18:46:44 +0000"
@@ -2739,6 +3059,18 @@
   "extradelight:recipes/extradelight.items/sweet_berry_juice": {
     "criteria": {
       "Recipes": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
@@ -2808,6 +3140,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_bricks_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-18 01:38:21 +0000"
@@ -2851,6 +3195,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/misc/sunflower_yellow": {
+    "criteria": {
+      "Recipes": "2025-02-18 01:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-02-16 18:46:20 +0000"
@@ -2878,6 +3228,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-16 19:50:49 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
     },
     "done": true
   },
