@@ -4351,3 +4351,33 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [18Feb2025 20:06:36.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
 [18Feb2025 20:08:55.227] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [18Feb2025 20:11:56.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[18Feb2025 20:14:46.648] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[18Feb2025 20:14:46.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> oye w andas usando tu mamalona para limpiar terreno?
+[18Feb2025 20:14:52.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[18Feb2025 20:14:52.448] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10919 Ticks
+[18Feb2025 20:14:57.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> LA ESTOY AGRANDANDO
+[18Feb2025 20:15:02.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ohh yaya
+[18Feb2025 20:15:28.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ fell from a high place
+[18Feb2025 20:15:36.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2233.500000, 103.500000, -3151.500000]
+[18Feb2025 20:15:39.358] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MSP3/servidor_minecraft/config/jecalculation/records.json.
+[18Feb2025 20:15:51.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> NO ME DI CUENTA DE LA VIDA XD
+[18Feb2025 20:16:05.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> me cai de la maquina
+[18Feb2025 20:16:10.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> xddd
+[18Feb2025 20:16:13.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> asjdklsahdksadas
+[18Feb2025 20:17:02.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[18Feb2025 20:18:09.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 22    [Mechanical Saw] to jkEmi_]
+[18Feb2025 20:19:58.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> t m ayudas con tu mamalona a limpiar un terreno
+[18Feb2025 20:20:05.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> va
+[18Feb2025 20:22:18.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[18Feb2025 20:22:19.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[18Feb2025 20:22:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> donde estas
+[18Feb2025 20:22:28.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> en mi casa
+[18Feb2025 20:22:34.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2637.500000, 128.500000, -3289.500000]
+[18Feb2025 20:23:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> que quieres aplanar
+[18Feb2025 20:23:22.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> todo aca atras
+[18Feb2025 20:23:34.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> esa parte
+[18Feb2025 20:23:52.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> hasta unos 4 x 4
+[18Feb2025 20:24:18.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> a prro
+[18Feb2025 20:24:21.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> esta bn god
+[18Feb2025 20:24:45.348] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11143 Ticks
+[18Feb2025 20:24:49.445] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/utility/TreeCutter$SearchDirection
