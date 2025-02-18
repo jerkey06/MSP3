@@ -4538,3 +4538,17 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [18Feb2025 01:15:27.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrewMartz has made the advancement [Sneak 100]
 [18Feb2025 01:23:11.081] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11353 Ticks
 [18Feb2025 01:24:04.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2773.500000, 137.500000, -3475.500000]
+[18Feb2025 01:24:08.130] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[18Feb2025 01:25:41.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2568.500000, 116.500000, -3282.500000]
+[18Feb2025 01:27:29.088] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[18Feb2025 01:28:41.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> alguien quiere pollo rostizado?
+[18Feb2025 01:28:45.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> yo
+[18Feb2025 01:28:51.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> pero q sea póllo feliz
+[18Feb2025 01:28:56.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to DrewMartz]
+[18Feb2025 01:29:18.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> es pura comida
+[18Feb2025 01:29:23.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2564.500000, 116.500000, -3285.500000]
+[18Feb2025 01:29:33.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2773.500000, 137.500000, -3474.500000]
+[18Feb2025 01:29:42.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ty
+[18Feb2025 01:29:52.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2564.500000, 116.500000, -3285.500000]
+[18Feb2025 01:30:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ has made the advancement [A Glorious Feast]
+[18Feb2025 01:33:43.233] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11358 Ticks

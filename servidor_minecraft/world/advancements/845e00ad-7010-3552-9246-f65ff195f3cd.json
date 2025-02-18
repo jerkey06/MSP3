@@ -5203,6 +5203,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/farmersdelight/pasta_mutton": {
+    "criteria": {
+      "pasta_mutton": "2025-02-18 01:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-02-16 00:12:06 +0000"
