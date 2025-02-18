@@ -3996,6 +3996,12 @@
     },
     "done": true
   },
+  "create:cart_pickup": {
+    "criteria": {
+      "0": "2025-02-18 02:44:23 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/gold_spoon": {
     "criteria": {
       "Recipes": "2025-02-17 02:01:03 +0000"

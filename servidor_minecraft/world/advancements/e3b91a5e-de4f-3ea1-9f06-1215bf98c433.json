@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/polished_cut_bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
     "criteria": {
       "has_plank": "2025-02-16 18:46:44 +0000"
@@ -431,6 +437,7 @@
       "pine_taiga": "2025-02-16 18:50:56 +0000",
       "autumnal_maple_forest": "2025-02-18 02:00:00 +0000",
       "grassy_beach": "2025-02-16 19:26:34 +0000",
+      "blackwood_taiga": "2025-02-18 02:35:05 +0000",
       "ochard": "2025-02-16 18:43:00 +0000",
       "deciduous_forest": "2025-02-18 01:11:24 +0000",
       "temperate_grove": "2025-02-16 18:44:14 +0000"
@@ -743,6 +750,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/orange_dye_from_cave_hyssop": {
+    "criteria": {
+      "has_cave_hyssop": "2025-02-18 02:42:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-18 02:23:40 +0000"
@@ -791,6 +804,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/small_bauxite_brick_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-18 02:06:13 +0000",
@@ -828,6 +847,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-02-18 00:43:17 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/cut_bauxite_brick_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
     },
     "done": true
   },
@@ -932,6 +957,12 @@
       "ROASTED_APPLE": "2025-02-16 20:01:52 +0000"
     },
     "done": false
+  },
+  "createindustry:recipes/createindustry.building/cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/ru_main/pine_branch_from_pine_log": {
     "criteria": {
@@ -1201,6 +1232,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-18 02:23:40 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/cut_bauxite_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
     },
     "done": true
   },
@@ -1631,6 +1668,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/small_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-02-16 18:47:25 +0000"
@@ -1661,6 +1704,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/small_bauxite_brick_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/sweet_berry_cheesecake": {
     "criteria": {
       "sweet_berry": "2025-02-16 18:51:02 +0000"
@@ -1682,6 +1731,12 @@
   "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-16 19:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-02-18 02:38:13 +0000"
     },
     "done": true
   },
@@ -1873,6 +1928,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/polished_cut_bauxite_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/golden_shield": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 01:39:40 +0000"
@@ -2053,6 +2114,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/cut_bauxite_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-18 02:05:41 +0000"
@@ -2062,6 +2129,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-18 02:23:40 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/bauxite_pillar_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
     },
     "done": true
   },
@@ -2203,6 +2276,7 @@
       "prismachasm": "2025-02-18 02:04:11 +0000",
       "grassy_beach": "2025-02-16 19:26:34 +0000",
       "scorching_caves": "2025-02-18 00:58:27 +0000",
+      "blackwood_taiga": "2025-02-18 02:35:05 +0000",
       "ochard": "2025-02-16 18:43:00 +0000",
       "deciduous_forest": "2025-02-18 01:11:24 +0000",
       "blackstone_basin": "2025-02-18 01:38:09 +0000",
@@ -2733,6 +2807,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/small_bauxite_bricks_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-02-18 01:00:31 +0000"
@@ -2748,6 +2828,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-18 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/cut_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
     },
     "done": true
   },
@@ -2802,6 +2888,12 @@
   "create:recipes/create.palettes/birch_window": {
     "criteria": {
       "has_ingredient": "2025-02-16 18:46:44 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/cut_bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
     },
     "done": true
   },
@@ -2922,6 +3014,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-18 02:24:36 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
     },
     "done": true
   },
@@ -3112,6 +3210,12 @@
     },
     "done": false
   },
+  "createindustry:recipes/createindustry.building/polished_cut_bauxite_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-02-18 01:38:21 +0000"
@@ -3256,6 +3360,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/cut_bauxite_bricks_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/roast_chicken": {
     "criteria": {
       "roast_chicken": "2025-02-18 00:43:17 +0000"
@@ -3349,6 +3459,12 @@
   "extradelight:recipes/extradelight.items/sweet_berry_to_block": {
     "criteria": {
       "Recipes": "2025-02-16 18:51:02 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/cut_bauxite_brick_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
     },
     "done": true
   },
@@ -3527,6 +3643,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/polished_cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-02-18 01:00:31 +0000"
@@ -3590,6 +3712,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-16 18:55:04 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/layered_bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:37 +0000"
     },
     "done": true
   },

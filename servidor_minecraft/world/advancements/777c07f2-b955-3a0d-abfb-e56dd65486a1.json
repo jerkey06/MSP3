@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/polished_cut_bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_limited_barrel_2": {
     "criteria": {
       "has_oak_plank": "2025-02-15 23:29:48 +0000"
@@ -840,6 +846,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/cut_bauxite_brick_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-02-17 02:29:47 +0000"
@@ -987,6 +999,12 @@
   "create:recipes/create.base/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2025-02-17 04:30:29 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
     },
     "done": true
   },
@@ -1737,6 +1755,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-16 21:54:06 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/small_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
     },
     "done": true
   },
@@ -3110,6 +3134,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/small_bauxite_bricks_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-02-16 22:04:52 +0000"
@@ -3137,6 +3167,12 @@
   "extradelight:recipes/extradelight.items/omelette_mix_mix": {
     "criteria": {
       "Recipes": "2025-02-16 05:30:42 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/cut_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
     },
     "done": true
   },
@@ -3281,6 +3317,12 @@
   "design_decor:recipes/design_decor/granite_castel_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-16 21:59:00 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
     },
     "done": true
   },
@@ -3525,6 +3567,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/polished_cut_bauxite_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/ribbon_bow_yellow": {
     "criteria": {
       "yellow_bow": "2025-02-15 23:32:49 +0000"
@@ -3693,6 +3741,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/cut_bauxite_bricks_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-02-15 23:39:41 +0000"
@@ -3828,6 +3882,12 @@
   "extradelight:recipes/extradelight.items/sweet_berry_to_block": {
     "criteria": {
       "Recipes": "2025-02-16 18:46:02 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/cut_bauxite_brick_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
     },
     "done": true
   },
@@ -4060,6 +4120,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/polished_cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-18 02:08:43 +0000"
@@ -4111,6 +4177,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-02-16 19:35:33 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/layered_bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
     },
     "done": true
   },
@@ -5351,6 +5423,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/small_bauxite_brick_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-16 03:40:48 +0000",
@@ -5907,6 +5985,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/cut_bauxite_slab_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_slab_from_panels": {
     "criteria": {
       "has_item": "2025-02-16 22:21:35 +0000"
@@ -6333,6 +6417,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/small_bauxite_brick_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-02-16 00:01:58 +0000"
@@ -6348,6 +6438,12 @@
   "create:recipes/create.palettes/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-16 21:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-02-18 02:38:18 +0000"
     },
     "done": true
   },
@@ -6621,6 +6717,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/polished_cut_bauxite_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
     "criteria": {
       "has_item": "2025-02-16 22:11:02 +0000"
@@ -6837,6 +6939,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/cut_bauxite_stairs_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-16 00:06:02 +0000"
@@ -6846,6 +6954,12 @@
   "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-16 03:22:11 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/bauxite_pillar_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
     },
     "done": true
   },
@@ -7569,6 +7683,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-02-15 23:32:49 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/cut_bauxite_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
     },
     "done": true
   },
