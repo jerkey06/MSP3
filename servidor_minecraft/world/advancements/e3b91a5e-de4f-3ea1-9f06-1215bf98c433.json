@@ -816,6 +816,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/cast_iron_ladder_from_ingots_cast_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_cast_iron": "2025-02-18 03:20:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/birch_branch_from_birch_log": {
     "criteria": {
       "has_log": "2025-02-16 18:46:12 +0000"
@@ -1719,6 +1725,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-18 02:19:04 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/cast_iron_sliding_breechblock": {
+    "criteria": {
+      "has_cast_iron_ingot": "2025-02-18 03:20:55 +0000"
     },
     "done": true
   },
@@ -3240,6 +3252,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/ap_shot": {
+    "criteria": {
+      "has_cast_iron_ingot": "2025-02-18 03:20:55 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_stone_wall_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-02-18 02:05:41 +0000"
@@ -3414,6 +3432,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/ap_autocannon_round": {
+    "criteria": {
+      "has_cast_iron": "2025-02-18 03:20:55 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/roast_chicken": {
     "criteria": {
       "roast_chicken": "2025-02-18 00:43:17 +0000"
@@ -3537,6 +3561,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-18 01:37:47 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/cast_iron_bars_from_ingots_cast_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_cast_iron": "2025-02-18 03:20:55 +0000"
     },
     "done": true
   },

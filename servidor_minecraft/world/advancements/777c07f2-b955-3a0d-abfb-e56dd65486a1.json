@@ -780,6 +780,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/cast_iron_ladder_from_ingots_cast_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_cast_iron": "2025-02-18 03:20:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/birch_branch_from_birch_log": {
     "criteria": {
       "has_log": "2025-02-16 01:16:44 +0000"
@@ -3747,6 +3753,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/ap_autocannon_round": {
+    "criteria": {
+      "has_cast_iron": "2025-02-18 03:20:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-02-15 23:39:41 +0000"
@@ -4120,15 +4132,15 @@
     },
     "done": true
   },
-  "createindustry:recipes/createindustry.building/polished_cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
-    "criteria": {
-      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-18 02:08:43 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/polished_cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
+    "criteria": {
+      "has_stone_types_bauxite": "2025-02-18 02:39:38 +0000"
     },
     "done": true
   },
@@ -6411,6 +6423,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/cast_iron_sliding_breechblock": {
+    "criteria": {
+      "has_cast_iron_ingot": "2025-02-18 03:20:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-02-16 22:18:13 +0000"
@@ -6441,15 +6459,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-02-18 02:38:18 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/everycomp/ddr/regions_unexplored/blackwood_stool": {
     "criteria": {
       "has_planks": "2025-02-18 01:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-02-18 02:38:18 +0000"
     },
     "done": true
   },
@@ -7338,15 +7356,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-02-18 02:08:43 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/ru_main/blackwood_pressure_plate": {
     "criteria": {
       "has_blackwood_planks": "2025-02-18 01:51:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-18 02:08:43 +0000"
     },
     "done": true
   },
@@ -8023,6 +8041,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/ap_shot": {
+    "criteria": {
+      "has_cast_iron_ingot": "2025-02-18 03:20:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-02-15 23:32:49 +0000"
@@ -8409,6 +8433,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/cast_iron_bars_from_ingots_cast_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_cast_iron": "2025-02-18 03:20:49 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/interiors/crafting/floor_chair/pink_floor_chair": {
     "criteria": {
       "has_seat": "2025-02-16 00:59:15 +0000"
@@ -8553,15 +8583,15 @@
     },
     "done": true
   },
-  "design_decor:recipes/design_decor/dripstone_castel_brick_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-02-18 02:08:43 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/everycomp/hc/regions_unexplored/blackwood_table": {
     "criteria": {
       "has_planks": "2025-02-18 01:51:10 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/dripstone_castel_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-02-18 02:08:43 +0000"
     },
     "done": true
   },
