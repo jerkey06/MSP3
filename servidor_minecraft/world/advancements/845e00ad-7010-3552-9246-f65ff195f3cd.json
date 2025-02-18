@@ -2946,6 +2946,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "roast_chicken": "2025-02-18 01:30:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-16 22:51:42 +0000"

@@ -539,6 +539,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/farmersdelight/pasta_mutton": {
+    "criteria": {
+      "pasta_mutton": "2025-02-18 01:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-02-16 20:52:23 +0000"
@@ -2022,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-18 01:38:02 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/c/regions_unexplored/pine_window_pane": {
     "criteria": {
       "has_planks": "2025-02-16 22:47:51 +0000"
@@ -2303,6 +2315,7 @@
     "criteria": {
       "mauve_hills": "2025-02-16 00:03:55 +0000",
       "shrubland": "2025-02-15 23:53:04 +0000",
+      "redstone_abyss": "2025-02-18 01:38:09 +0000",
       "pine_taiga": "2025-02-16 00:21:48 +0000",
       "barley_fields": "2025-02-15 23:52:31 +0000",
       "grassy_beach": "2025-02-16 00:32:59 +0000",
@@ -2314,6 +2327,7 @@
       "mountains": "2025-02-15 23:56:39 +0000",
       "sparse_redwoods": "2025-02-16 00:20:53 +0000",
       "deciduous_forest": "2025-02-16 18:51:27 +0000",
+      "blackstone_basin": "2025-02-18 01:38:02 +0000",
       "temperate_grove": "2025-02-16 00:13:53 +0000",
       "pine_slopes": "2025-02-15 23:56:19 +0000",
       "grassland": "2025-02-16 00:15:28 +0000",
@@ -2925,6 +2939,12 @@
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2025-02-15 23:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-18 01:38:02 +0000"
     },
     "done": true
   },
@@ -3972,6 +3992,13 @@
       "has_stone_types_limestone": "2025-02-16 21:57:16 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "blackstone_basin": "2025-02-18 01:38:02 +0000",
+      "redstone_abyss": "2025-02-18 01:38:09 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/ru_main/magenta_painted_planks": {
     "criteria": {

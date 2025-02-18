@@ -4552,3 +4552,61 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [18Feb2025 01:29:52.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2564.500000, 116.500000, -3285.500000]
 [18Feb2025 01:30:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ has made the advancement [A Glorious Feast]
 [18Feb2025 01:33:43.233] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11358 Ticks
+[18Feb2025 01:34:22.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2778.500000, 137.500000, -3473.500000]
+[18Feb2025 01:35:01.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2562.500000, 116.500000, -3318.500000]
+[18Feb2025 01:35:14.386] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b3cc272
+[18Feb2025 01:35:14.394] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MSP3/servidor_minecraft/config/jecalculation/records.json.
+[18Feb2025 01:35:14.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misadios[/127.4.208.200:36729] logged in with entity id 17558 at (-2863.699999988079, 26.0, -3352.300000011921)
+[18Feb2025 01:35:14.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios joined the game
+[18Feb2025 01:35:14.517] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e3b91a5e-de4f-3ea1-9f06-1215bf98c433
+[18Feb2025 01:35:14.524] [Server thread/INFO] [Jade/]: Syncing config to Misadios (e3b91a5e-de4f-3ea1-9f06-1215bf98c433)
+[18Feb2025 01:35:15.566] [Server thread/INFO] [ping-wheel/]: Channel update: Misadios -> default
+[18Feb2025 01:35:27.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> volvi
+[18Feb2025 01:35:46.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> me comi un ramen de sabor raro y la boca me huele a pusi xd
+[18Feb2025 01:35:53.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> xdddddddddd}
+[18Feb2025 01:35:56.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> q cinuste?
+[18Feb2025 01:36:00.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> comiste
+[18Feb2025 01:36:12.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> vamos al nether misa
+[18Feb2025 01:36:17.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> fue en la tarde me habia comprado un ramen por si me daba hambre
+[18Feb2025 01:36:19.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> tengo un portal
+[18Feb2025 01:36:31.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> tp
+[18Feb2025 01:36:35.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> sk-proj-1234567890
+[18Feb2025 01:36:39.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> xddddd
+[18Feb2025 01:36:42.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> ese copi no
+[18Feb2025 01:37:15.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2210.500000, 104.500000, -3166.500000]
+[18Feb2025 01:37:21.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> donde vrgs encuentro esa pta arciñña
+[18Feb2025 01:37:29.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported Misadios to jkEmi_]
+[18Feb2025 01:37:32.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> aca esta
+[18Feb2025 01:37:39.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> te tepeo andres?
+[18Feb2025 01:37:41.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> tp
+[18Feb2025 01:37:53.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported DrewMartz to jkEmi_]
+[18Feb2025 01:38:01.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> por alguna razon me dio un chingo de ganas matar ese cerdo
+[18Feb2025 01:38:02.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrewMartz has made the advancement [We Need to Go Deeper]
+[18Feb2025 01:38:06.066] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/ai/FindPlaceToSleepGoal$Target
+[18Feb2025 01:38:09.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios has made the advancement [We Need to Go Deeper]
+[18Feb2025 01:38:12.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2562.500000, 116.500000, -3281.500000]
+[18Feb2025 01:39:06.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> andres aguanta
+[18Feb2025 01:39:13.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> no tenemos nada de oro xdd
+[18Feb2025 01:39:18.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> con hierro si nos follan
+[18Feb2025 01:39:21.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> m acorde d esoi
+[18Feb2025 01:39:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> xdd
+[18Feb2025 01:39:34.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> el aldeano en plan
+[18Feb2025 01:39:38.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> no me pises pa
+[18Feb2025 01:39:45.283] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[18Feb2025 01:39:45.286] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[18Feb2025 01:39:51.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> putos aldeanos
+[18Feb2025 01:39:52.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> asi nomas quedo
+[18Feb2025 01:40:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> no se reproducen a la velocidad que yo queria
+[18Feb2025 01:40:28.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> son diferentes ladrillos ptm
+[18Feb2025 01:41:15.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> jajaj
+[18Feb2025 01:41:34.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> mira asi parece que me la estoy jalando
+[18Feb2025 01:42:35.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> emi que cuenta la familia
+[18Feb2025 01:42:46.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> ando en crisis
+[18Feb2025 01:43:04.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> y la vieja como anda w
+[18Feb2025 01:43:08.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> xdddddddddddddddddddddd
+[18Feb2025 01:43:24.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> mama un viejito del centro se la anda jalando
+[18Feb2025 01:43:36.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> cuando quieras soy el padrino de refrescos en la boda
+[18Feb2025 01:43:41.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> xdddddddddd
+[18Feb2025 01:43:49.882] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/GlobeBlockTile$GlobeModel
+[18Feb2025 01:43:58.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ has made the advancement [You Spin Me Right Round Baby]
+[18Feb2025 01:44:22.482] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11216 Ticks
