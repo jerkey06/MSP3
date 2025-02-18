@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/brewing/strong_melon_juice": {
+    "criteria": {
+      "has_tea": "2025-02-18 00:52:31 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/ddr/regions_unexplored/maple_counter_1": {
     "criteria": {
       "has_planks": "2025-02-16 03:46:01 +0000"
@@ -1239,6 +1245,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-02-17 04:46:18 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/cheeseburger_burger": {
+    "criteria": {
+      "Recipes": "2025-02-18 00:52:14 +0000"
     },
     "done": true
   },
@@ -7128,6 +7140,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-16 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/bacon_cheeseburger_burger": {
+    "criteria": {
+      "Recipes": "2025-02-18 00:52:14 +0000"
     },
     "done": true
   },

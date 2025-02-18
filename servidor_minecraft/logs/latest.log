@@ -4419,3 +4419,106 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [18Feb2025 00:53:26.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> xaero-waypoint:Shared Location:S:-2206:103:-3164:4:false:0:Internal-overworld-waypoints
 [18Feb2025 00:53:30.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> ahi estan
 [18Feb2025 00:53:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ty
+[18Feb2025 00:53:58.436] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11357 Ticks
+[18Feb2025 00:54:07.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> la nasty w
+[18Feb2025 00:54:15.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2200.500000, 104.500000, -3172.500000]
+[18Feb2025 00:54:15.221] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/processing/burner/BlazeBurnerBlockEntity$FuelType
+[18Feb2025 00:54:16.042] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[18Feb2025 00:54:16.042] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[18Feb2025 00:54:22.438] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[18Feb2025 00:54:41.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2571.500000, 116.500000, -3337.500000]
+[18Feb2025 00:54:58.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> y a mi que siempre me cago ser un jugador tecnico
+[18Feb2025 00:55:13.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> jalas a ir a l amina?
+[18Feb2025 00:55:15.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> oye misa
+[18Feb2025 00:55:16.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> ci
+[18Feb2025 00:55:21.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> e
+[18Feb2025 00:55:22.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> de casualidad no tienes el carrito
+[18Feb2025 00:55:28.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ten
+[18Feb2025 00:55:37.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ten
+[18Feb2025 00:55:39.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> deja veo
+[18Feb2025 00:55:46.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> si we
+[18Feb2025 00:55:53.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> ondas
+[18Feb2025 00:55:57.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> deja me hago tp
+[18Feb2025 00:55:58.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> con el drew
+[18Feb2025 00:56:13.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to DrewMartz]
+[18Feb2025 00:56:32.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> tambien se puede usar pa minar esa madre
+[18Feb2025 00:56:36.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> la calamos?
+[18Feb2025 00:56:37.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> si lo agarraste eda
+[18Feb2025 00:56:39.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> va
+[18Feb2025 00:56:49.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> nomas q no jode los minerales?
+[18Feb2025 00:57:01.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> los rompe y guarda
+[18Feb2025 00:57:09.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[18Feb2025 00:57:46.149] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[18Feb2025 00:57:49.057] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[18Feb2025 00:57:49.089] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[18Feb2025 00:57:49.089] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[18Feb2025 00:58:23.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> el popocatepetl
+[18Feb2025 00:58:32.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> si le heco agua?
+[18Feb2025 00:59:06.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ has made the advancement [Diamonds!]
+[18Feb2025 00:59:11.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> iii pendejos
+[18Feb2025 00:59:14.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> se los gane
+[18Feb2025 00:59:22.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> ora
+[18Feb2025 00:59:24.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> como hiciste eso
+[18Feb2025 00:59:37.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> marcaste
+[18Feb2025 01:00:28.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jkEmi_ lost connection: Disconnected
+[18Feb2025 01:00:28.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ left the game
+[18Feb2025 01:00:28.188] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 845e00ad-7010-3552-9246-f65ff195f3cd
+[18Feb2025 01:00:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios has made the advancement [Diamonds!]
+[18Feb2025 01:00:31.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> xdddddddddddddddddddddd
+[18Feb2025 01:00:33.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> asdhbsakjhdlksahdsalkdhsañkdhñsakd
+[18Feb2025 01:00:43.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> se murio el pendejo
+[18Feb2025 01:00:46.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[18Feb2025 01:01:06.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to DrewMartz: pongan agua ahi
+[18Feb2025 01:01:06.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Misadios: pongan agua ahi
+[18Feb2025 01:01:12.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> vo
+[18Feb2025 01:01:20.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> listo
+[18Feb2025 01:01:28.892] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@37c90bb6
+[18Feb2025 01:01:28.902] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MSP3/servidor_minecraft/config/jecalculation/records.json.
+[18Feb2025 01:01:28.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jkEmi_[/127.156.162.102:57483] logged in with entity id 6825 at (-2726.699999988079, -35.0, -3208.54316648912)
+[18Feb2025 01:01:28.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkEmi_ joined the game
+[18Feb2025 01:01:29.021] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 845e00ad-7010-3552-9246-f65ff195f3cd
+[18Feb2025 01:01:29.023] [Server thread/INFO] [Jade/]: Syncing config to jkEmi_ (845e00ad-7010-3552-9246-f65ff195f3cd)
+[18Feb2025 01:01:29.618] [Server thread/INFO] [ping-wheel/]: Channel update: jkEmi_ -> default
+[18Feb2025 01:01:38.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> da,e 5
+[18Feb2025 01:01:42.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misadios lost connection: Disconnected
+[18Feb2025 01:01:42.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios left the game
+[18Feb2025 01:01:42.030] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e3b91a5e-de4f-3ea1-9f06-1215bf98c433
+[18Feb2025 01:01:49.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> xdddddd
+[18Feb2025 01:02:29.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2564.500000, 116.500000, -3285.500000]
+[18Feb2025 01:02:56.583] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 13238 Ticks
+[18Feb2025 01:04:31.340] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@fd388f7
+[18Feb2025 01:04:31.352] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MSP3/servidor_minecraft/config/jecalculation/records.json.
+[18Feb2025 01:04:31.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misadios[/127.4.208.200:36605] logged in with entity id 7541 at (-2730.300000011921, -53.0, -3198.300000011921)
+[18Feb2025 01:04:31.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios joined the game
+[18Feb2025 01:04:31.489] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e3b91a5e-de4f-3ea1-9f06-1215bf98c433
+[18Feb2025 01:04:31.496] [Server thread/INFO] [Jade/]: Syncing config to Misadios (e3b91a5e-de4f-3ea1-9f06-1215bf98c433)
+[18Feb2025 01:04:32.097] [Server thread/INFO] [ping-wheel/]: Channel update: Misadios -> default
+[18Feb2025 01:04:35.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> lograron salir'
+[18Feb2025 01:04:37.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> xdd
+[18Feb2025 01:04:48.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ?
+[18Feb2025 01:05:00.179] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[18Feb2025 01:05:01.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> en el server oficial del mod solo hay 5
+[18Feb2025 01:05:06.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> xddd
+[18Feb2025 01:05:10.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> nmms que pedo
+[18Feb2025 01:05:12.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> haganme tp
+[18Feb2025 01:05:19.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> tp a mi
+[18Feb2025 01:05:25.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ando afuera d ahi
+[18Feb2025 01:05:37.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported Misadios to DrewMartz]
+[18Feb2025 01:07:29.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> andres que ocupamos para el oil w
+[18Feb2025 01:07:35.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> deja wacho
+[18Feb2025 01:08:13.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ladrillos ignifugos
+[18Feb2025 01:08:17.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> son los delnether?
+[18Feb2025 01:08:49.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> ignitium lingots?
+[18Feb2025 01:08:55.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> smn
+[18Feb2025 01:09:02.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> nmms segun yo eso es de un boss
+[18Feb2025 01:09:14.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> si es asi si jalo
+[18Feb2025 01:09:18.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> va
+[18Feb2025 01:09:38.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> tu tienes agua
+[18Feb2025 01:09:55.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> mina de mierda
+[18Feb2025 01:10:50.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> amos aca
+[18Feb2025 01:12:01.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> xddddddddddddddd
+[18Feb2025 01:12:06.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> nmms
+[18Feb2025 01:12:11.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Misadios> pense que no habia skulks
+[18Feb2025 01:13:17.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misadios has made the advancement [Sneak 100]
+[18Feb2025 01:13:28.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[18Feb2025 01:13:28.682] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -59641 Ticks
