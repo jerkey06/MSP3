@@ -4432,3 +4432,11 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [18Feb2025 21:24:49.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 63    [Block of Diamond] to jkEmi_]
 [18Feb2025 21:25:43.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2573.500000, 116.500000, -3332.500000]
 [18Feb2025 21:25:55.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2198.500000, 103.500000, -3136.500000]
+[18Feb2025 21:26:11.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[18Feb2025 21:26:11.448] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10963 Ticks
+[18Feb2025 21:27:42.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2777.500000, 137.500000, -3473.500000]
+[18Feb2025 21:30:58.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2562.500000, 116.500000, -3307.500000]
+[18Feb2025 21:34:04.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2800.500000, 137.500000, -3458.500000]
+[18Feb2025 21:34:20.105] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[18Feb2025 21:34:56.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[18Feb2025 21:34:56.993] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10510 Ticks
