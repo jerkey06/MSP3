@@ -4661,6 +4661,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-18 01:15:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-02-15 23:39:32 +0000"
