@@ -2154,6 +2154,12 @@
     },
     "done": true
   },
+  "goodending:recipes/orange_dye_from_spicy_wildflowers": {
+    "criteria": {
+      "has_item": "2025-02-18 19:59:31 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/granite_castel_tile_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-15 23:36:22 +0000"
@@ -3780,6 +3786,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_andesite_slab": {
+    "criteria": {
+      "has_polished_cut_andesite": "2025-02-18 19:51:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/electron_tube": {
     "criteria": {
       "has_item": "2025-02-17 04:08:58 +0000"
@@ -5047,6 +5059,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
+    "criteria": {
+      "has_item": "2025-02-18 19:50:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-16 20:20:51 +0000"
@@ -5056,6 +5074,12 @@
   "extradelight:recipes/extradelight.aesthetic/wallpaper_light_blue": {
     "criteria": {
       "light_blue_wallpaper": "2025-02-17 04:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-18 19:59:26 +0000"
     },
     "done": true
   },
@@ -6248,6 +6272,7 @@
       "shrubland": "2025-02-15 23:53:09 +0000",
       "pine_taiga": "2025-02-16 00:21:27 +0000",
       "autumnal_maple_forest": "2025-02-17 01:30:15 +0000",
+      "willow_forest": "2025-02-18 19:52:32 +0000",
       "barley_fields": "2025-02-15 23:32:51 +0000",
       "grassy_beach": "2025-02-16 21:59:07 +0000",
       "scorching_caves": "2025-02-18 00:58:29 +0000",
@@ -6850,6 +6875,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_andesite_wall": {
+    "criteria": {
+      "has_polished_cut_andesite": "2025-02-18 19:51:07 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
     "criteria": {
       "has_item": "2025-02-17 00:35:46 +0000"
@@ -7028,6 +7059,12 @@
   "extradelight:recipes/misc/mortar/white_dye": {
     "criteria": {
       "Recipes": "2025-02-16 05:16:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_andesite_stairs": {
+    "criteria": {
+      "has_polished_cut_andesite": "2025-02-18 19:51:07 +0000"
     },
     "done": true
   },
@@ -7409,6 +7446,7 @@
       "shrubland": "2025-02-15 23:53:09 +0000",
       "pine_taiga": "2025-02-16 00:21:27 +0000",
       "autumnal_maple_forest": "2025-02-17 01:30:15 +0000",
+      "willow_forest": "2025-02-18 19:52:32 +0000",
       "barley_fields": "2025-02-15 23:32:51 +0000",
       "grassy_beach": "2025-02-16 21:59:07 +0000",
       "blackwood_taiga": "2025-02-16 00:20:42 +0000",
@@ -8290,6 +8328,12 @@
   "shieldexp:recipes/golden_shield": {
     "criteria": {
       "has_gold_ingot": "2025-02-17 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-18 19:59:26 +0000"
     },
     "done": true
   },
@@ -9192,6 +9236,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 23:39:56 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/misc/mortar/light_gray_dye": {
+    "criteria": {
+      "Recipes": "2025-02-18 19:59:26 +0000"
     },
     "done": true
   },

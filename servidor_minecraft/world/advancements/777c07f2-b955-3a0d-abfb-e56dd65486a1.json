@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-02-16 01:21:53 +0000"
@@ -266,6 +272,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-02-16 23:59:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
     },
     "done": true
   },
@@ -533,6 +545,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-15 23:37:51 +0000"
@@ -596,6 +614,12 @@
   "farmersrespite:recipes/farmersrespite/brewing/strong_melon_juice": {
     "criteria": {
       "has_tea": "2025-02-18 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_cushion": "2025-02-18 04:05:58 +0000"
     },
     "done": true
   },
@@ -738,9 +762,21 @@
     },
     "done": true
   },
+  "delightful:recipes/cooking/animal_oil_bottle": {
+    "criteria": {
+      "has_animal_fat": "2025-02-18 04:01:51 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/calcite_castel_tile_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-16 21:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
     },
     "done": true
   },
@@ -1200,6 +1236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-18 04:05:58 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/zinc_checker_tiles_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-02-16 21:50:22 +0000"
@@ -1347,6 +1389,12 @@
   "design_decor:recipes/design_decor/granite_castel_tiles_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-16 21:59:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
     },
     "done": true
   },
@@ -1824,6 +1872,12 @@
     },
     "done": true
   },
+  "delightful:recipes/candle_from_animal_fat": {
+    "criteria": {
+      "has_fat": "2025-02-18 04:01:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-15 23:37:51 +0000"
@@ -2114,6 +2168,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/hc/regions_unexplored/blackwood_dining_bench": {
     "criteria": {
       "has_planks": "2025-02-18 01:51:10 +0000"
@@ -2171,6 +2231,12 @@
   "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-02-16 00:58:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
     },
     "done": true
   },
@@ -2666,6 +2732,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/limestone_castel_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-16 21:57:15 +0000"
@@ -2870,6 +2942,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-02-18 04:01:50 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/copycats.main/stonecutting/copycat_half_panel": {
     "criteria": {
       "has_item": "2025-02-16 21:50:22 +0000"
@@ -3023,6 +3101,12 @@
   "create:recipes/create.palettes/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-18 02:08:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2025-02-18 04:01:50 +0000"
     },
     "done": true
   },
@@ -3332,6 +3416,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-02-18 04:01:50 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_stone_brick_wall_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-02-16 22:18:13 +0000"
@@ -3510,6 +3600,12 @@
   "create:recipes/create.base/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-02-17 03:45:46 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-02-18 20:04:00 +0000"
     },
     "done": true
   },
@@ -3915,6 +4011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.base/crafting/kinetics/fluid_reservoir": {
     "criteria": {
       "has_barrel": "2025-02-16 23:18:02 +0000"
@@ -4098,6 +4200,12 @@
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2025-02-16 01:21:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
     },
     "done": true
   },
@@ -4481,6 +4589,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-02-18 04:01:50 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/metal_plate_slab_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-02-16 01:21:53 +0000"
@@ -4817,6 +4931,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_sheet": "2025-02-18 04:05:58 +0000"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/mixing_bowl": {
     "criteria": {
       "Recipes": "2025-02-15 23:29:48 +0000"
@@ -4976,6 +5096,12 @@
   "extradelight:recipes/food/dried_kelp": {
     "criteria": {
       "has_kelp": "2025-02-17 03:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
     },
     "done": true
   },
@@ -5159,6 +5285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-15 23:39:41 +0000"
@@ -5192,6 +5324,18 @@
   "extradelight:recipes/extradelight.items/yeast_pot": {
     "criteria": {
       "Recipes": "2025-02-17 04:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-02-18 04:02:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2025-02-18 04:01:50 +0000"
     },
     "done": true
   },
@@ -5279,6 +5423,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/black_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-15 23:29:48 +0000"
@@ -5318,6 +5468,12 @@
   "create:recipes/create.palettes/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-16 03:22:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-02-18 04:01:50 +0000"
     },
     "done": true
   },
@@ -5991,6 +6147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-18 04:05:58 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/blackwood_slab": {
     "criteria": {
       "has_blackwood_planks": "2025-02-18 01:51:10 +0000"
@@ -6051,6 +6213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_beam": {
     "criteria": {
       "has_stripped_log": "2025-02-16 22:55:49 +0000"
@@ -6060,6 +6228,12 @@
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-02-16 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-02-18 04:01:50 +0000"
     },
     "done": true
   },
@@ -6285,6 +6459,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2025-02-16 22:04:52 +0000"
@@ -6384,6 +6564,12 @@
   "interiors:recipes/interiors/crafting/chair/yellow_chair_from_seat": {
     "criteria": {
       "has_seat": "2025-02-16 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-18 04:05:58 +0000"
     },
     "done": true
   },
@@ -6543,6 +6729,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/lime_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-15 23:29:48 +0000"
@@ -6678,6 +6870,12 @@
   "interiors:recipes/interiors/crafting/floor_chair/orange_floor_chair_from_seat": {
     "criteria": {
       "has_seat": "2025-02-16 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-18 20:04:00 +0000"
     },
     "done": true
   },
@@ -6996,6 +7194,12 @@
   "create:recipes/create.palettes/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-15 23:39:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
     },
     "done": true
   },
@@ -7404,6 +7608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-02-15 23:35:07 +0000"
@@ -7650,6 +7860,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_corner_trim": {
     "criteria": {
       "has_corner_trim": "2025-02-18 02:08:43 +0000"
@@ -7758,6 +7974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-02-15 23:28:19 +0000"
@@ -7803,6 +8025,12 @@
   "everycomp:recipes/everycomp/hc/regions_unexplored/maple_chair": {
     "criteria": {
       "has_planks": "2025-02-16 03:46:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
     },
     "done": true
   },
@@ -8092,6 +8320,12 @@
   "create:recipes/create.palettes/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-16 21:57:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-02-18 04:04:12 +0000"
     },
     "done": true
   },
@@ -8427,6 +8661,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-16 00:02:41 +0000"
@@ -8562,6 +8802,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-15 23:45:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-18 19:54:34 +0000"
     },
     "done": true
   },
@@ -8815,6 +9061,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-02-16 00:01:48 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/misc/sunflower_yellow": {
+    "criteria": {
+      "Recipes": "2025-02-18 04:02:37 +0000"
     },
     "done": true
   },
