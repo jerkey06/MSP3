@@ -4358,3 +4358,36 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [19Feb2025 23:18:16.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2784.500000, 138.500000, -3471.500000]
 [19Feb2025 23:18:41.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
 [19Feb2025 23:18:41.624] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11052 Ticks
+[19Feb2025 23:19:33.978] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlock$CartAssemblerAction
+[19Feb2025 23:21:11.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[19Feb2025 23:22:40.374] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a4e901e
+[19Feb2025 23:22:40.933] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[19Feb2025 23:22:42.373] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/utility/TreeCutter$SearchDirection
+[19Feb2025 23:25:31.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 1    [Controller Rail] to jkEmi_]
+[19Feb2025 23:26:20.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[19Feb2025 23:27:52.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2768.500000, 138.500000, -3470.500000]
+[19Feb2025 23:27:56.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[19Feb2025 23:27:56.323] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11093 Ticks
+[19Feb2025 23:28:08.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2811.500000, 137.500000, -3439.500000]
+[19Feb2025 23:28:51.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2239.500000, 103.500000, -3136.500000]
+[19Feb2025 23:29:02.238] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[19Feb2025 23:31:03.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2573.500000, 125.500000, -3282.500000]
+[19Feb2025 23:31:28.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2224.500000, 103.500000, -3129.500000]
+[19Feb2025 23:31:30.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[19Feb2025 23:32:16.928] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/actors/roller/RollerBlockEntity$RollingMode
+[19Feb2025 23:33:24.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> xddddd
+[19Feb2025 23:33:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> q
+[19Feb2025 23:33:35.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> la esmeralda se genera en el nivel 30?
+[19Feb2025 23:33:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> no vrd
+[19Feb2025 23:33:49.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> si
+[19Feb2025 23:33:53.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> en montañas
+[19Feb2025 23:34:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ahh yaya
+[19Feb2025 23:34:07.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> se me habia hecho raro
+[19Feb2025 23:36:14.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/actors/roller/RollerMovementBehaviour$PaveResult
+[19Feb2025 23:36:38.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[19Feb2025 23:37:26.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[19Feb2025 23:37:26.725] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11407 Ticks
+[19Feb2025 23:37:41.973] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[19Feb2025 23:37:42.002] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[19Feb2025 23:37:42.003] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[19Feb2025 23:39:01.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 200    [Mechanical Roller] to jkEmi_]
