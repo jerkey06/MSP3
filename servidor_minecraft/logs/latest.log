@@ -4343,3 +4343,18 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [19Feb2025 23:06:37.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2220.500000, 103.500000, -3152.500000]
 [19Feb2025 23:07:42.480] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
 [19Feb2025 23:08:27.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2766.500000, 137.500000, -3437.500000]
+[19Feb2025 23:09:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[19Feb2025 23:09:28.972] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11042 Ticks
+[19Feb2025 23:10:33.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[19Feb2025 23:10:37.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 64    [Mechanical Harvester] to jkEmi_]
+[19Feb2025 23:10:53.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[19Feb2025 23:11:35.727] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting plus/dragons/createcentralkitchen/foundation/data/tag/IntegrationItemTags
+[19Feb2025 23:12:10.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2595.500000, 116.500000, -3330.500000]
+[19Feb2025 23:12:18.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2770.500000, 137.500000, -3449.500000]
+[19Feb2025 23:15:01.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 600    [Powered Rail] to jkEmi_]
+[19Feb2025 23:16:02.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[19Feb2025 23:17:29.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2205.500000, 103.500000, -3149.500000]
+[19Feb2025 23:18:12.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 1    [Controller Rail] to jkEmi_]
+[19Feb2025 23:18:16.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2784.500000, 138.500000, -3471.500000]
+[19Feb2025 23:18:41.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[19Feb2025 23:18:41.624] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11052 Ticks
