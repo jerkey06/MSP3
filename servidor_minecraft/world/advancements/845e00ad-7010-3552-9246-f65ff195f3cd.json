@@ -5518,6 +5518,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/sugar_cookie": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 04:10:27 +0000"
+    },
+    "done": true
+  },
   "farmersrespite:recipes/farmersrespite/cooking/tea_curry": {
     "criteria": {
       "has_any_ingredient": "2025-02-16 22:28:56 +0000"
@@ -8859,6 +8865,12 @@
   "everycomp:recipes/everycomp/hc/regions_unexplored/pine_fancy_bed": {
     "criteria": {
       "has_planks": "2025-02-16 22:24:50 +0000"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/sugar_to_block": {
+    "criteria": {
+      "Recipes": "2025-02-19 04:10:27 +0000"
     },
     "done": true
   },
