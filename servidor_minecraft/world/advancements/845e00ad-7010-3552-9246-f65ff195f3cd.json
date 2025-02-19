@@ -3240,6 +3240,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/nickel_truss_from_ingots_nickel_stonecutting": {
+    "criteria": {
+      "has_ingots_nickel": "2025-02-19 03:31:36 +0000"
+    },
+    "done": true
+  },
   "decoration_delight:the_search_begins_advancement": {
     "criteria": {
       "the_search_begins_advancement": "2025-02-15 23:26:28 +0000"
@@ -4452,6 +4458,12 @@
     },
     "done": true
   },
+  "delightful:recipes/salmonberry_pips": {
+    "criteria": {
+      "has_salmonberries": "2025-02-19 03:48:15 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/interiors/crafting/chair/pink_chair_from_seat": {
     "criteria": {
       "has_seat": "2025-02-17 04:25:34 +0000"
@@ -4509,6 +4521,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-02-16 05:08:49 +0000",
+      "wheat": "2025-02-19 03:29:21 +0000",
       "carrot": "2025-02-16 19:14:13 +0000"
     },
     "done": false
@@ -4588,6 +4601,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-15 23:34:05 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/gummy/salmonberries": {
+    "criteria": {
+      "has_salmonberries": "2025-02-19 03:48:15 +0000"
     },
     "done": true
   },
@@ -5615,6 +5634,12 @@
   "extradelight:recipes/extradelight.aesthetic/mangrove_molded_light_blue_wallpaper": {
     "criteria": {
       "light_blue_mangrove_wallpaper": "2025-02-17 04:08:38 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/salmonberry_storage_block": {
+    "criteria": {
+      "has_salmonberry": "2025-02-19 03:48:15 +0000"
     },
     "done": true
   },
@@ -7308,6 +7333,12 @@
     },
     "done": true
   },
+  "createindustry:recipes/createindustry.building/nickel_bars_from_ingots_nickel_stonecutting": {
+    "criteria": {
+      "has_ingots_nickel": "2025-02-19 03:31:36 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-02-17 01:33:00 +0000"
@@ -7440,6 +7471,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/nickel_knife": {
+    "criteria": {
+      "has_nickel": "2025-02-19 03:31:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/baobab_boat": {
     "criteria": {
       "in_water": "2025-02-15 23:34:56 +0000"
@@ -7516,6 +7553,12 @@
       "redwoods": "2025-02-16 20:11:56 +0000"
     },
     "done": false
+  },
+  "createindustry:recipes/createindustry.building/nickel_frame_from_ingots_nickel_stonecutting": {
+    "criteria": {
+      "has_ingots_nickel": "2025-02-19 03:31:36 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
@@ -8208,6 +8251,12 @@
   "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_orange_wallpaper": {
     "criteria": {
       "orange_dark_oak_wallpaper": "2025-02-17 04:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-19 03:29:21 +0000"
     },
     "done": true
   },
@@ -9470,6 +9519,12 @@
   "extradelight:recipes/misc/sunflower_yellow": {
     "criteria": {
       "Recipes": "2025-02-17 03:26:19 +0000"
+    },
+    "done": true
+  },
+  "createindustry:recipes/createindustry.building/nickel_ladder_from_ingots_nickel_stonecutting": {
+    "criteria": {
+      "has_ingots_nickel": "2025-02-19 03:31:36 +0000"
     },
     "done": true
   },
