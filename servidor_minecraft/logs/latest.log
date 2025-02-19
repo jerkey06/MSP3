@@ -4391,3 +4391,12 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [19Feb2025 23:37:42.002] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
 [19Feb2025 23:37:42.003] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
 [19Feb2025 23:39:01.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Gave 200    [Mechanical Roller] to jkEmi_]
+[19Feb2025 23:41:45.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[19Feb2025 23:46:49.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[19Feb2025 23:46:49.474] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11254 Ticks
+[19Feb2025 23:46:50.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[19Feb2025 23:47:18.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2769.500000, 137.500000, -3438.500000]
+[19Feb2025 23:48:47.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> dios me ama
+[19Feb2025 23:48:50.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> q pta suerte
+[19Feb2025 23:49:10.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> me explota un creeper
+[19Feb2025 23:49:15.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> y andaba en medio d lava
