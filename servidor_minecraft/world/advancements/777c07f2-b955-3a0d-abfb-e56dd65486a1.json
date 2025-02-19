@@ -3562,6 +3562,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "roast_chicken": "2025-02-19 02:45:35 +0000",
       "bacon_and_eggs": "2025-02-18 01:48:55 +0000",
       "fried_rice": "2025-02-16 19:30:54 +0000"
     },
