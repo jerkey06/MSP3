@@ -8645,6 +8645,12 @@
     },
     "done": true
   },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-02-19 23:04:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2025-02-16 00:56:58 +0000"
