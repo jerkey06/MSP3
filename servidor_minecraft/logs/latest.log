@@ -4532,3 +4532,32 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [19Feb2025 04:16:11.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> caña?
 [19Feb2025 04:16:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> caña y lo otro
 [19Feb2025 04:16:25.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> q?
+[19Feb2025 04:16:33.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> el trigo
+[19Feb2025 04:16:39.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ahhh yaya
+[19Feb2025 04:17:55.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> nooooooooooooo
+[19Feb2025 04:17:58.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> que haces pendejo
+[19Feb2025 04:18:14.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> plantando
+[19Feb2025 04:18:21.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> mas ayuda el que no estorba
+[19Feb2025 04:18:25.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> orale sumbele alv
+[19Feb2025 04:18:32.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> pendejo
+[19Feb2025 04:18:36.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> mejor ya vete
+[19Feb2025 04:18:41.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> y mi nave prro
+[19Feb2025 04:18:50.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2221.500000, 103.500000, -3159.500000]
+[19Feb2025 04:18:54.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported DrewMartz to jkEmi_]
+[19Feb2025 04:18:58.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2781.500000, 138.500000, -3456.500000]
+[19Feb2025 04:19:03.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[19Feb2025 04:19:12.591] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[19Feb2025 04:19:33.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> coy a usar tu portal
+[19Feb2025 04:19:45.373] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[19Feb2025 04:19:45.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[19Feb2025 04:19:47.014] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/ai/FindPlaceToSleepGoal$Target
+[19Feb2025 04:21:16.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[19Feb2025 04:21:16.794] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11187 Ticks
+[19Feb2025 04:21:44.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2221.500000, 103.500000, -3160.500000]
+[19Feb2025 04:21:49.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2539.500000, 116.500000, -3285.500000]
+[19Feb2025 04:22:07.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2753.500000, 137.500000, -3467.500000]
+[19Feb2025 04:22:45.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2582.500000, 127.500000, -3281.500000]
+[19Feb2025 04:23:06.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2815.500000, 137.500000, -3459.500000]
+[19Feb2025 04:24:08.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[19Feb2025 04:24:12.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2559.500000, 122.500000, -3281.500000]
+[19Feb2025 04:26:34.886] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult

@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/layered_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-02-16 01:35:29 +0000"
@@ -953,6 +959,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-15 23:33:34 +0000"
@@ -1055,6 +1067,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-02-19 04:20:32 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2025-02-16 22:04:52 +0000"
@@ -1142,6 +1160,12 @@
   "copycats:recipes/copycats.main/stonecutting/copycat_layer": {
     "criteria": {
       "has_item": "2025-02-16 21:50:22 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
     },
     "done": true
   },
@@ -2804,6 +2828,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-18 19:54:34 +0000"
@@ -3733,6 +3763,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/proximity_fuze": {
+    "criteria": {
+      "has_quartz": "2025-02-19 04:21:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-16 21:57:01 +0000"
@@ -3832,6 +3868,12 @@
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-16 03:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-19 04:21:02 +0000"
     },
     "done": true
   },
@@ -4006,6 +4048,12 @@
   "create:recipes/create.palettes/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-18 02:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-19 04:21:02 +0000"
     },
     "done": true
   },
@@ -4357,6 +4405,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/small_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-02-16 18:46:16 +0000",
@@ -4367,6 +4421,12 @@
   "create_dd:recipes/create_dd.palettes/dark_metal_bricks_from_industrial_iron_block_stonecutting": {
     "criteria": {
       "has_industrial_iron_block": "2025-02-18 20:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-19 04:17:44 +0000"
     },
     "done": true
   },
@@ -4592,6 +4652,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-16 03:22:48 +0000"
@@ -4637,6 +4703,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-02-15 23:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-19 04:21:02 +0000"
     },
     "done": true
   },
@@ -4724,6 +4796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-19 04:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-16 00:06:02 +0000"
@@ -4733,6 +4811,12 @@
   "design_decor:recipes/design_decor/calcite_castel_tile_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-16 21:57:01 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
     },
     "done": true
   },
@@ -4847,6 +4931,12 @@
   "create:recipes/create.palettes/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-15 23:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-19 04:21:02 +0000"
     },
     "done": true
   },
@@ -5102,6 +5192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-19 04:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-16 03:22:11 +0000"
@@ -5205,6 +5301,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/orange_dye_from_cave_hyssop": {
     "criteria": {
       "has_cave_hyssop": "2025-02-18 02:05:38 +0000"
@@ -5238,6 +5340,12 @@
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-02-16 22:04:52 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
     },
     "done": true
   },
@@ -6065,6 +6173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-19 04:17:44 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/railways/crafting/link_and_pin": {
     "criteria": {
       "has_item": "2025-02-18 20:45:42 +0000"
@@ -6115,6 +6229,12 @@
   "createbigcannons:recipes/createbigcannons/casting_sand": {
     "criteria": {
       "has_sand": "2025-02-16 00:33:00 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
     },
     "done": true
   },
@@ -6244,6 +6364,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-15 23:39:41 +0000"
@@ -6361,6 +6487,12 @@
   "create:recipes/create.palettes/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-18 02:08:43 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
     },
     "done": true
   },
@@ -6880,6 +7012,12 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-02-15 23:28:19 +0000",
       "inv_changed-diamond": "2025-02-15 23:28:19 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
     },
     "done": true
   },
@@ -8167,6 +8305,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/ddr/regions_unexplored/pine_counter_corner": {
     "criteria": {
       "has_planks": "2025-02-16 22:47:51 +0000"
@@ -8507,9 +8651,21 @@
     },
     "done": true
   },
+  "create_dd:recipes/building_blocks/netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/pine_door": {
     "criteria": {
       "has_pine_planks": "2025-02-16 22:47:51 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
     },
     "done": true
   },
@@ -8606,6 +8762,12 @@
   "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2025-02-15 23:32:49 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
     },
     "done": true
   },
@@ -8887,6 +9049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-19 04:20:59 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/scoria_castel_tiles_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-16 03:22:48 +0000"
@@ -9109,6 +9277,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-02-16 01:21:53 +0000"
@@ -9257,6 +9431,12 @@
   "create_dd:recipes/create_dd.palettes/cut_stone_bricks_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-02-16 22:18:13 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-19 04:20:59 +0000"
     },
     "done": true
   },
