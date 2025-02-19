@@ -4372,3 +4372,18 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [19Feb2025 02:54:59.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ten nigga
 [19Feb2025 02:55:12.692] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
 [19Feb2025 02:55:14.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> pendejo
+[19Feb2025 02:55:54.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> llevate madera para tradearr
+[19Feb2025 02:56:36.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> arrw
+[19Feb2025 02:57:15.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[19Feb2025 02:57:15.944] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10569 Ticks
+[19Feb2025 03:02:51.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2443.500000, 64.500000, -3353.500000]
+[19Feb2025 03:02:57.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2790.500000, 137.500000, -3465.500000]
+[19Feb2025 03:03:07.416] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[19Feb2025 03:03:11.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2797.500000, 63.500000, -3640.500000]
+[19Feb2025 03:03:11.783] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/FluidTransportBehaviour$UpdatePhase
+[19Feb2025 03:03:11.798] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/addons/oddities/block/be/PipeBlockEntity$ConnectionType
+[19Feb2025 03:03:11.886] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/StatueBlockTile$StatuePose
+[19Feb2025 03:03:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2779.500000, 137.500000, -3466.500000]
+[19Feb2025 03:05:04.498] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-2761, 142, -3477] in minecraft:overworld
+[19Feb2025 03:05:14.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2760.500000, 142.000000, -3476.500000]
+[19Feb2025 03:05:23.395] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 89 stacked items at:[-2758, 142, -3487] in minecraft:overworld
