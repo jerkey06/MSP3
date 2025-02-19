@@ -4387,3 +4387,15 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [19Feb2025 03:05:04.498] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-2761, 142, -3477] in minecraft:overworld
 [19Feb2025 03:05:14.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2760.500000, 142.000000, -3476.500000]
 [19Feb2025 03:05:23.395] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 89 stacked items at:[-2758, 142, -3487] in minecraft:overworld
+[19Feb2025 03:06:21.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[19Feb2025 03:06:21.801] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10916 Ticks
+[19Feb2025 03:15:20.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[19Feb2025 03:15:20.597] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -10775 Ticks
+[19Feb2025 03:17:39.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> quieres ender pearls'
+[19Feb2025 03:17:41.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> ?
+[19Feb2025 03:17:44.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> pa que xddddd
+[19Feb2025 03:17:53.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> por eso pregunto
+[19Feb2025 03:17:59.437] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[19Feb2025 03:21:12.289] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[19Feb2025 03:22:25.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[19Feb2025 03:22:25.846] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -8504 Ticks
