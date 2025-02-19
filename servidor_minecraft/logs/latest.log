@@ -4561,3 +4561,14 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [19Feb2025 04:24:08.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
 [19Feb2025 04:24:12.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2559.500000, 122.500000, -3281.500000]
 [19Feb2025 04:26:34.886] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[19Feb2025 04:27:45.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Teleported jkEmi_ to -2753.500000, 137.500000, -3433.500000]
+[19Feb2025 04:29:35.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[19Feb2025 04:30:24.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jkEmi_> deja ahi nmms
+[19Feb2025 04:30:53.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the time to 1000]
+[19Feb2025 04:30:53.691] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: -11537 Ticks
+[19Feb2025 04:34:51.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jkEmi_: Set the weather to clear]
+[19Feb2025 04:36:36.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> mañana le sigo
+[19Feb2025 04:36:38.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DrewMartz> bye
+[19Feb2025 04:36:40.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrewMartz lost connection: Disconnected
+[19Feb2025 04:36:40.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrewMartz left the game
+[19Feb2025 04:36:40.597] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 777c07f2-b955-3a0d-abfb-e56dd65486a1
