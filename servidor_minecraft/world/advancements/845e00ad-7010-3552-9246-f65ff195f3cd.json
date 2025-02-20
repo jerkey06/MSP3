@@ -1608,6 +1608,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-02-19 23:48:15 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/copycats.main/stonecutting/copycat_half_panel": {
     "criteria": {
       "has_item": "2025-02-16 00:56:58 +0000"
@@ -1683,6 +1689,12 @@
   "extradelight:recipes/extradelight.aesthetic/warped_molded_pink_wallpaper": {
     "criteria": {
       "pink_warped_wallpaper": "2025-02-17 04:08:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2025-02-19 23:48:15 +0000"
     },
     "done": true
   },
@@ -2916,6 +2928,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2025-02-19 23:48:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-02-17 01:30:26 +0000"
@@ -3015,6 +3033,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-15 23:37:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-02-19 23:48:15 +0000"
     },
     "done": true
   },
@@ -6791,6 +6815,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-02-19 23:48:15 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/granite_castel_tile_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-15 23:36:22 +0000"
@@ -7289,6 +7319,12 @@
   "create_dd:recipes/create_dd.palettes/crafting/decor/cyan_asphalt_block": {
     "criteria": {
       "has_dyed_item": "2025-02-16 01:33:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-02-19 23:48:15 +0000"
     },
     "done": true
   },
@@ -8080,6 +8116,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 23:39:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-02-19 23:48:15 +0000"
     },
     "done": true
   },

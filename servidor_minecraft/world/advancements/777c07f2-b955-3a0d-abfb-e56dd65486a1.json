@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-02-20 00:10:27 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2025-02-15 23:29:35 +0000"
@@ -3254,6 +3260,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/semaphore": {
+    "criteria": {
+      "has_item": "2025-02-20 00:10:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-15 23:37:51 +0000"
@@ -3364,6 +3376,12 @@
   "everycomp:recipes/everycomp/hc/regions_unexplored/blackwood_bench": {
     "criteria": {
       "has_planks": "2025-02-18 01:51:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-02-20 00:10:27 +0000"
     },
     "done": true
   },
@@ -4681,6 +4699,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/overstress_clutch": {
+    "criteria": {
+      "has_item": "2025-02-20 00:10:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_corner_trim": {
     "criteria": {
       "has_corner_trim": "2025-02-18 02:08:43 +0000"
@@ -5261,6 +5285,12 @@
   "create:recipes/create.palettes/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-16 21:57:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-02-19 23:51:28 +0000"
     },
     "done": true
   },
@@ -6393,6 +6423,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-02-19 23:51:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-15 23:37:51 +0000"
@@ -6539,6 +6575,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2025-02-19 23:51:14 +0000",
       "prismachasm": "2025-02-18 02:04:16 +0000",
       "scorching_caves": "2025-02-16 03:53:30 +0000",
       "bioshroom_caves": "2025-02-18 01:53:38 +0000"
@@ -6944,6 +6981,7 @@
       "autumnal_maple_forest": "2025-02-18 02:00:15 +0000",
       "prismachasm": "2025-02-18 02:04:16 +0000",
       "barley_fields": "2025-02-15 23:52:31 +0000",
+      "redstone_caves": "2025-02-19 23:51:14 +0000",
       "grassy_beach": "2025-02-16 00:32:59 +0000",
       "scorching_caves": "2025-02-16 03:53:30 +0000",
       "blackwood_taiga": "2025-02-16 00:21:14 +0000",
